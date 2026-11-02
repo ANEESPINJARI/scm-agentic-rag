@@ -1,0 +1,13 @@
+From: prakash.kale@omkarforgingsindus.example.com
+To: rohan.gokhale@sahyadri-auto.example.com
+Date: Tue, 28 Jul 2026 10:56
+Subject: Request for price revision - PN-10036
+Message-ID: <EML-0044@sahyadri-auto.example.com>
+
+Dear Rohan,
+
+Due to a rise in raw material prices over the last quarter, we request a price increase of 4 percent on item PN-10036 (Steering knuckle - V200), effective 27-Aug-2026. Supporting index data is attached. Please let us know your acceptance.
+
+Regards,
+Prakash Kale
+Omkar Forgings Industries

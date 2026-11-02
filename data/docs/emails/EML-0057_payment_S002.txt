@@ -1,0 +1,13 @@
+From: kavita.jadhav@vighnahartacasting.example.com
+To: accounts@sahyadri-auto.example.com
+Date: Thu, 19 Feb 2026 10:21
+Subject: Payment reminder - invoice for PO/25-26/03804
+Message-ID: <EML-0057@sahyadri-auto.example.com>
+
+Dear Accounts Team,
+
+This is a reminder that payment of about INR 3,52,692 against PO/25-26/03804 line 1 (goods received 02-Jan-2026) is overdue as per the agreed 30 day payment terms. Please release payment or share the reason for hold.
+
+Regards,
+Kavita Jadhav
+Vighnaharta Castings Industries

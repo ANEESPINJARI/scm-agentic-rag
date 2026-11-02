@@ -1,0 +1,15 @@
+SOP: EXPEDITING AND PREMIUM FREIGHT
+Document SOP-EXP-003 | Sahyadri Auto Components Pvt Ltd
+============================================================
+
+Triggers
+For A items: if a PO is overdue by more than 2 days, the buyer sends an expedite e-mail. If overdue by more than 5 days, the buyer also calls the supplier and informs the Purchase Manager. For B and C items the thresholds are 5 and 10 days.
+
+Stock cover rule
+Expedite immediately when remaining stock cover is less than the supplier's expected remaining lead time, regardless of overdue days.
+
+Premium freight
+Premium freight up to INR 25,000 may be approved by the Purchase Manager. Above that amount the Plant Head must approve. Recover the cost from the supplier where the contract allows it.
+
+Record keeping
+Log every expedite request with PO number, supplier, promised date, new committed date and reason.

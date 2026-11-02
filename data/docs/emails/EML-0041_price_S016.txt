@@ -1,0 +1,13 @@
+From: neha.kulkarni@samarthpressingspr.example.com
+To: priya.nene@sahyadri-auto.example.com
+Date: Sat, 07 Feb 2026 10:27
+Subject: Request for price revision - PN-10218
+Message-ID: <EML-0041@sahyadri-auto.example.com>
+
+Dear Priya,
+
+Due to a rise in raw material prices over the last quarter, we request a price increase of 8 percent on item PN-10218 (Mudguard panel - W404), effective 09-Mar-2026. Supporting index data is attached. Please let us know your acceptance.
+
+Regards,
+Neha Kulkarni
+Samarth Pressings Precision Pvt Ltd

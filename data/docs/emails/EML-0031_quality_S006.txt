@@ -1,0 +1,14 @@
+From: quality@sahyadri-auto.example.com
+To: deepak.pawar@pavnafastenersindu.example.com
+Date: Sun, 02 Mar 2025 10:43
+Subject: Rejection notice - PO/24-25/00725 - PN-10098
+Message-ID: <EML-0031@sahyadri-auto.example.com>
+
+Dear Deepak,
+
+Incoming inspection of the lot received on 01-Mar-2025 against PO/24-25/00725 line 1, item PN-10098 (Stud - D996), found 411 pieces rejected out of 116440 received. Defect observed: wrong marking on parts.
+Please submit an 8D report within 5 working days and replace the rejected quantity within 7 days as per the quality clause. Rejected material is tagged and held for your disposition.
+
+Regards,
+Quality Assurance
+Sahyadri Auto Components Pvt Ltd

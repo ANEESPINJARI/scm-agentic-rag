@@ -1,0 +1,13 @@
+From: neha.kulkarni@samarthpressingspr.example.com
+To: accounts@sahyadri-auto.example.com
+Date: Wed, 08 Oct 2025 10:26
+Subject: Payment reminder - invoice for PO/25-26/02544
+Message-ID: <EML-0054@sahyadri-auto.example.com>
+
+Dear Accounts Team,
+
+This is a reminder that payment of about INR 8,03,600 against PO/25-26/02544 line 1 (goods received 19-Aug-2025) is overdue as per the agreed 45 day payment terms. Please release payment or share the reason for hold.
+
+Regards,
+Neha Kulkarni
+Samarth Pressings Precision Pvt Ltd

@@ -1,0 +1,100 @@
+doc_id,doc_type,topic,title,supplier_id,related_po,effective_date,version,supersedes,file_path,format
+CON-S001,contract,supply_agreement,Supply Agreement - Pavna Castings Precision Pvt Ltd,S001,,2023-12-19,1,,contracts\CON-S001_Pavna_Castings_Precision_Pvt_Ltd.docx,docx
+CON-S002,contract,supply_agreement,Supply Agreement - Vighnaharta Castings Industries,S002,,2024-02-12,1,,contracts\CON-S002_Vighnaharta_Castings_Industries.pdf,pdf
+AMD-S002-01,amendment,supply_agreement,Amendment No. 1 - Vighnaharta Castings Industries,S002,,2026-03-28,2,CON-S002,contracts\AMD-S002-01_Vighnaharta_Castings_Industries.txt,txt
+CON-S003,contract,supply_agreement,Supply Agreement - Indrayani Castings Components Pvt Ltd,S003,,2023-06-03,1,,contracts\CON-S003_Indrayani_Castings_Components_Pvt_Ltd.docx,docx
+CON-S004,contract,supply_agreement,Supply Agreement - Omkar Forgings Industries,S004,,2023-12-26,1,,contracts\CON-S004_Omkar_Forgings_Industries.pdf,pdf
+AMD-S004-01,amendment,supply_agreement,Amendment No. 1 - Omkar Forgings Industries,S004,,2026-01-18,2,CON-S004,contracts\AMD-S004-01_Omkar_Forgings_Industries.pdf,pdf
+CON-S005,contract,supply_agreement,Supply Agreement - Rajgad Forgings Industries,S005,,2023-04-03,1,,contracts\CON-S005_Rajgad_Forgings_Industries.docx,docx
+AMD-S005-01,amendment,supply_agreement,Amendment No. 1 - Rajgad Forgings Industries,S005,,2026-02-02,2,CON-S005,contracts\AMD-S005-01_Rajgad_Forgings_Industries.txt,txt
+CON-S006,contract,supply_agreement,Supply Agreement - Pavna Fasteners Industries,S006,,2022-08-24,1,,contracts\CON-S006_Pavna_Fasteners_Industries.pdf,pdf
+CON-S007,contract,supply_agreement,Supply Agreement - Deccan Fasteners Enterprises,S007,,2024-01-06,1,,contracts\CON-S007_Deccan_Fasteners_Enterprises.docx,docx
+CON-S008,contract,supply_agreement,Supply Agreement - Moshi Fasteners Auto Products,S008,,2022-06-15,1,,contracts\CON-S008_Moshi_Fasteners_Auto_Products.pdf,pdf
+CON-S009,contract,supply_agreement,Supply Agreement - Sahyadri Polymers Udyog,S009,,2022-06-14,1,,contracts\CON-S009_Sahyadri_Polymers_Udyog.docx,docx
+CON-S010,contract,supply_agreement,Supply Agreement - Bhima Polymers Engineering Works,S010,,2022-11-06,1,,contracts\CON-S010_Bhima_Polymers_Engineering_Works.pdf,pdf
+CON-S011,contract,supply_agreement,Supply Agreement - Omkar Polymers Auto Products,S011,,2022-09-10,1,,contracts\CON-S011_Omkar_Polymers_Auto_Products.docx,docx
+AMD-S011-01,amendment,supply_agreement,Amendment No. 1 - Omkar Polymers Auto Products,S011,,2026-04-25,2,CON-S011,contracts\AMD-S011-01_Omkar_Polymers_Auto_Products.txt,txt
+CON-S012,contract,supply_agreement,Supply Agreement - Moshi Cables Precision Pvt Ltd,S012,,2024-07-31,1,,contracts\CON-S012_Moshi_Cables_Precision_Pvt_Ltd.pdf,pdf
+CON-S013,contract,supply_agreement,Supply Agreement - Gajanan Cables Enterprises,S013,,2024-08-20,1,,contracts\CON-S013_Gajanan_Cables_Enterprises.docx,docx
+AMD-S013-01,amendment,supply_agreement,Amendment No. 1 - Gajanan Cables Enterprises,S013,,2026-05-12,2,CON-S013,contracts\AMD-S013-01_Gajanan_Cables_Enterprises.pdf,pdf
+CON-S014,contract,supply_agreement,Supply Agreement - Sahyadri Bearings Components Pvt Ltd,S014,,2024-08-12,1,,contracts\CON-S014_Sahyadri_Bearings_Components_Pvt_Ltd.pdf,pdf
+CON-S015,contract,supply_agreement,Supply Agreement - Sinhagad Bearings Industries,S015,,2022-10-27,1,,contracts\CON-S015_Sinhagad_Bearings_Industries.docx,docx
+CON-S016,contract,supply_agreement,Supply Agreement - Samarth Pressings Precision Pvt Ltd,S016,,2023-09-17,1,,contracts\CON-S016_Samarth_Pressings_Precision_Pvt_Ltd.pdf,pdf
+CON-S017,contract,supply_agreement,Supply Agreement - Ranjan Pressings Auto Products,S017,,2023-01-12,1,,contracts\CON-S017_Ranjan_Pressings_Auto_Products.docx,docx
+CON-S018,contract,supply_agreement,Supply Agreement - Pavna Pressings Precision Pvt Ltd,S018,,2022-06-29,1,,contracts\CON-S018_Pavna_Pressings_Precision_Pvt_Ltd.pdf,pdf
+CON-S019,contract,supply_agreement,Supply Agreement - Purandar Packaging Auto Products,S019,,2023-06-05,1,,contracts\CON-S019_Purandar_Packaging_Auto_Products.docx,docx
+CON-S020,contract,supply_agreement,Supply Agreement - Godavari Packaging Precision Pvt Ltd,S020,,2023-07-24,1,,contracts\CON-S020_Godavari_Packaging_Precision_Pvt_Ltd.pdf,pdf
+CON-S021,contract,supply_agreement,Supply Agreement - Kaveri Lubricants Udyog,S021,,2024-03-05,1,,contracts\CON-S021_Kaveri_Lubricants_Udyog.docx,docx
+CON-S022,contract,supply_agreement,Supply Agreement - Deccan Lubricants Enterprises,S022,,2024-03-08,1,,contracts\CON-S022_Deccan_Lubricants_Enterprises.pdf,pdf
+CON-S023,contract,supply_agreement,Supply Agreement - Talawade Electronics Industries,S023,,2022-07-25,1,,contracts\CON-S023_Talawade_Electronics_Industries.docx,docx
+CON-S024,contract,supply_agreement,Supply Agreement - Pavna Steel Industries,S024,,2024-01-11,1,,contracts\CON-S024_Pavna_Steel_Industries.pdf,pdf
+CON-S025,contract,supply_agreement,Supply Agreement - Samarth Steel Industries,S025,,2023-12-04,1,,contracts\CON-S025_Samarth_Steel_Industries.docx,docx
+AMD-S025-01,amendment,supply_agreement,Amendment No. 1 - Samarth Steel Industries,S025,,2026-06-22,2,CON-S025,contracts\AMD-S025-01_Samarth_Steel_Industries.pdf,pdf
+SOP-INV-001,sop,Reorder Point and Safety Stock Review,SOP: Reorder Point and Safety Stock Review,,,2024-04-01,1,,sops\SOP-INV-001.docx,docx
+SOP-PO-002,sop,Purchase Order Creation and Approval,SOP: Purchase Order Creation and Approval,,,2024-04-01,1,,sops\SOP-PO-002.pdf,pdf
+SOP-EXP-003,sop,Expediting and Premium Freight,SOP: Expediting and Premium Freight,,,2024-04-01,1,,sops\SOP-EXP-003.txt,txt
+SOP-QUA-004,sop,Supplier Quality Escalation,SOP: Supplier Quality Escalation,,,2024-04-01,1,,sops\SOP-QUA-004.docx,docx
+SOP-STK-005,sop,Stock-out and Line-Stoppage Escalation,SOP: Stock-out and Line-Stoppage Escalation,,,2024-04-01,1,,sops\SOP-STK-005.pdf,pdf
+SOP-SHT-006,sop,Festival and Plant Shutdown Planning,SOP: Festival and Plant Shutdown Planning,,,2024-04-01,1,,sops\SOP-SHT-006.txt,txt
+EML-0001,email,delay,Delay in dispatch - PO/25-26/04291,S012,PO/25-26/04291,2026-02-19,1,,emails\EML-0001_delay_S012.txt,txt
+EML-0002,email,delay,Delay in dispatch - PO/26-27/05825,S008,PO/26-27/05825,2026-07-10,1,,emails\EML-0002_delay_S008.txt,txt
+EML-0003,email,delay,Delay in dispatch - PO/24-25/00288,S011,PO/24-25/00288,2024-12-31,1,,emails\EML-0003_delay_S011.txt,txt
+EML-0004,email,delay,Delay in dispatch - PO/24-25/00241,S008,PO/24-25/00241,2024-12-25,1,,emails\EML-0004_delay_S008.txt,txt
+EML-0005,email,delay,Delay in dispatch - PO/25-26/03885,S011,PO/25-26/03885,2026-01-03,1,,emails\EML-0005_delay_S011.txt,txt
+EML-0006,email,delay,Delay in dispatch - PO/25-26/04462,S005,PO/25-26/04462,2026-03-15,1,,emails\EML-0006_delay_S005.txt,txt
+EML-0007,email,delay,Delay in dispatch - PO/24-25/00059,S024,PO/24-25/00059,2024-11-19,1,,emails\EML-0007_delay_S024.txt,txt
+EML-0008,email,delay,Delay in dispatch - PO/26-27/06101,S018,PO/26-27/06101,2026-08-06,1,,emails\EML-0008_delay_S018.txt,txt
+EML-0009,email,delay,Delay in dispatch - PO/25-26/01471,S003,PO/25-26/01471,2025-05-17,1,,emails\EML-0009_delay_S003.txt,txt
+EML-0010,email,delay,Delay in dispatch - PO/25-26/02034,S013,PO/25-26/02034,2025-07-05,1,,emails\EML-0010_delay_S013.txt,txt
+EML-0011,email,delay,Delay in dispatch - PO/25-26/02180,S002,PO/25-26/02180,2025-07-28,1,,emails\EML-0011_delay_S002.txt,txt
+EML-0012,email,delay,Delay in dispatch - PO/24-25/00316,S004,PO/24-25/00316,2025-01-14,1,,emails\EML-0012_delay_S004.txt,txt
+EML-0013,email,delay,Delay in dispatch - PO/26-27/05579,S019,PO/26-27/05579,2026-06-10,1,,emails\EML-0013_delay_S019.txt,txt
+EML-0014,email,delay,Delay in dispatch - PO/26-27/06724,S012,PO/26-27/06724,2026-10-11,1,,emails\EML-0014_delay_S012.txt,txt
+EML-0015,email,expedite,URGENT: Expedite PO/26-27/05614 - PN-10123,S011,PO/26-27/05614,2026-07-03,1,,emails\EML-0015_expedite_S011.txt,txt
+EML-0016,email,expedite,URGENT: Expedite PO/26-27/05780 - PN-10136,S011,PO/26-27/05780,2026-07-19,1,,emails\EML-0016_expedite_S011.txt,txt
+EML-0017,email,expedite,URGENT: Expedite PO/26-27/05720 - PN-10285,S023,PO/26-27/05720,2026-08-04,1,,emails\EML-0017_expedite_S023.txt,txt
+EML-0018,email,expedite,URGENT: Expedite PO/26-27/05611 - PN-10080,S007,PO/26-27/05611,2026-07-03,1,,emails\EML-0018_expedite_S007.txt,txt
+EML-0019,email,expedite,URGENT: Expedite PO/25-26/01986 - PN-10113,S007,PO/25-26/01986,2025-07-12,1,,emails\EML-0019_expedite_S007.txt,txt
+EML-0020,email,expedite,URGENT: Expedite PO/26-27/06508 - PN-10082,S006,PO/26-27/06508,2026-09-23,1,,emails\EML-0020_expedite_S006.txt,txt
+EML-0021,email,expedite,URGENT: Expedite PO/25-26/04637 - PN-10143,S009,PO/25-26/04637,2026-04-01,1,,emails\EML-0021_expedite_S009.txt,txt
+EML-0022,email,expedite,URGENT: Expedite PO/26-27/06468 - PN-10186,S015,PO/26-27/06468,2026-10-03,1,,emails\EML-0022_expedite_S015.txt,txt
+EML-0023,email,expedite,URGENT: Expedite PO/26-27/06240 - PN-10015,S001,PO/26-27/06240,2026-09-03,1,,emails\EML-0023_expedite_S001.txt,txt
+EML-0024,email,expedite,URGENT: Expedite PO/24-25/00473 - PN-10161,S013,PO/24-25/00473,2025-02-04,1,,emails\EML-0024_expedite_S013.txt,txt
+EML-0025,email,quality,Rejection notice - PO/26-27/05973 - PN-10125,S009,PO/26-27/05973,2026-08-01,1,,emails\EML-0025_quality_S009.txt,txt
+EML-0026,email,quality,Rejection notice - PO/24-25/00763 - PN-10141,S011,PO/24-25/00763,2025-03-11,1,,emails\EML-0026_quality_S011.txt,txt
+EML-0027,email,quality,Rejection notice - PO/24-25/00057 - PN-10267,S022,PO/24-25/00057,2024-12-03,1,,emails\EML-0027_quality_S022.txt,txt
+EML-0028,email,quality,Rejection notice - PO/25-26/01655 - PN-10192,S014,PO/25-26/01655,2025-06-17,1,,emails\EML-0028_quality_S014.txt,txt
+EML-0029,email,quality,Rejection notice - PO/26-27/06683 - PN-10018,S003,PO/26-27/06683,2026-10-13,1,,emails\EML-0029_quality_S003.txt,txt
+EML-0030,email,quality,Rejection notice - PO/25-26/02301 - PN-10247,S019,PO/25-26/02301,2025-07-31,1,,emails\EML-0030_quality_S019.txt,txt
+EML-0031,email,quality,Rejection notice - PO/24-25/00725 - PN-10098,S006,PO/24-25/00725,2025-03-02,1,,emails\EML-0031_quality_S006.txt,txt
+EML-0032,email,quality,Rejection notice - PO/26-27/05885 - PN-10223,S018,PO/26-27/05885,2026-07-22,1,,emails\EML-0032_quality_S018.txt,txt
+EML-0033,email,quality,Rejection notice - PO/25-26/04634 - PN-10084,S006,PO/25-26/04634,2026-03-24,1,,emails\EML-0033_quality_S006.txt,txt
+EML-0034,email,quality,Rejection notice - PO/26-27/05605 - PN-10234,S017,PO/26-27/05605,2026-06-23,1,,emails\EML-0034_quality_S017.txt,txt
+EML-0035,email,quality,Rejection notice - PO/26-27/05621 - PN-10084,S006,PO/26-27/05621,2026-06-27,1,,emails\EML-0035_quality_S006.txt,txt
+EML-0036,email,quality,Rejection notice - PO/24-25/01001 - PN-10254,S019,PO/24-25/01001,2025-03-19,1,,emails\EML-0036_quality_S019.txt,txt
+EML-0037,email,price,Request for price revision - PN-10220,S016,PO/24-25/00605,2025-02-01,1,,emails\EML-0037_price_S016.txt,txt
+EML-0038,email,price,Request for price revision - PN-10140,S011,PO/26-27/04939,2026-04-09,1,,emails\EML-0038_price_S011.txt,txt
+EML-0039,email,price,Request for price revision - PN-10233,S018,PO/26-27/05410,2026-05-23,1,,emails\EML-0039_price_S018.txt,txt
+EML-0040,email,price,Request for price revision - PN-10002,S001,PO/24-25/00369,2025-01-10,1,,emails\EML-0040_price_S001.txt,txt
+EML-0041,email,price,Request for price revision - PN-10218,S016,PO/25-26/04305,2026-02-07,1,,emails\EML-0041_price_S016.txt,txt
+EML-0042,email,price,Request for price revision - PN-10232,S016,PO/24-25/00768,2025-02-19,1,,emails\EML-0042_price_S016.txt,txt
+EML-0043,email,price,Request for price revision - PN-10091,S008,PO/25-26/01936,2025-06-14,1,,emails\EML-0043_price_S008.txt,txt
+EML-0044,email,price,Request for price revision - PN-10036,S004,PO/26-27/06080,2026-07-28,1,,emails\EML-0044_price_S004.txt,txt
+EML-0045,email,dispatch,Dispatch advice - PO/26-27/05247,S010,PO/26-27/05247,2026-05-21,1,,emails\EML-0045_dispatch_S010.txt,txt
+EML-0046,email,dispatch,Dispatch advice - PO/25-26/01701,S007,PO/25-26/01701,2025-06-06,1,,emails\EML-0046_dispatch_S007.txt,txt
+EML-0047,email,dispatch,Dispatch advice - PO/26-27/05743,S017,PO/26-27/05743,2026-07-06,1,,emails\EML-0047_dispatch_S017.txt,txt
+EML-0048,email,dispatch,Dispatch advice - PO/26-27/05979,S019,PO/26-27/05979,2026-07-22,1,,emails\EML-0048_dispatch_S019.txt,txt
+EML-0049,email,dispatch,Dispatch advice - PO/26-27/05601,S008,PO/26-27/05601,2026-06-29,1,,emails\EML-0049_dispatch_S008.txt,txt
+EML-0050,email,dispatch,Dispatch advice - PO/24-25/00476,S018,PO/24-25/00476,2025-01-31,1,,emails\EML-0050_dispatch_S018.txt,txt
+EML-0051,email,dispatch,Dispatch advice - PO/26-27/05480,S021,PO/26-27/05480,2026-06-07,1,,emails\EML-0051_dispatch_S021.txt,txt
+EML-0052,email,dispatch,Dispatch advice - PO/26-27/05250,S019,PO/26-27/05250,2026-05-10,1,,emails\EML-0052_dispatch_S019.txt,txt
+EML-0053,email,payment,Payment reminder - invoice for PO/24-25/00421,S016,PO/24-25/00421,2025-03-15,1,,emails\EML-0053_payment_S016.txt,txt
+EML-0054,email,payment,Payment reminder - invoice for PO/25-26/02544,S016,PO/25-26/02544,2025-10-08,1,,emails\EML-0054_payment_S016.txt,txt
+EML-0055,email,payment,Payment reminder - invoice for PO/24-25/00272,S018,PO/24-25/00272,2025-03-18,1,,emails\EML-0055_payment_S018.txt,txt
+EML-0056,email,payment,Payment reminder - invoice for PO/25-26/03970,S007,PO/25-26/03970,2026-03-26,1,,emails\EML-0056_payment_S007.txt,txt
+EML-0057,email,payment,Payment reminder - invoice for PO/25-26/03804,S002,PO/25-26/03804,2026-02-19,1,,emails\EML-0057_payment_S002.txt,txt
+EML-0058,email,payment,Payment reminder - invoice for PO/24-25/00127,S025,PO/24-25/00127,2025-02-23,1,,emails\EML-0058_payment_S025.txt,txt
+EML-0059,email,capacity,Capacity constraint for PN-10053,S005,PO/26-27/06645,2026-09-21,1,,emails\EML-0059_capacity_S005.txt,txt
+EML-0060,email,capacity,Capacity constraint for PN-10291,S024,PO/25-26/03838,2025-12-17,1,,emails\EML-0060_capacity_S024.txt,txt
+EML-0061,email,capacity,Capacity constraint for PN-10086,S006,PO/26-27/06326,2026-08-19,1,,emails\EML-0061_capacity_S006.txt,txt
+EML-0062,email,capacity,Capacity constraint for PN-10221,S018,PO/25-26/02805,2025-09-09,1,,emails\EML-0062_capacity_S018.txt,txt

@@ -1,0 +1,75 @@
+{
+  "suppliers": {
+    "rows_in": 28,
+    "rows_out": 25,
+    "rules": {
+      "duplicate supplier records removed (kept most complete)": 3,
+      "lead time text ('3 weeks', '21') -> days": 11,
+      "payment terms text ('Net 45') -> days": 16,
+      "city spelling standardised": 2,
+      "GSTIN failed format check (flagged, not deleted)": 0,
+      "contact e-mail missing (left blank)": 1
+    }
+  },
+  "items": {
+    "rows_in": 302,
+    "rows_out": 300,
+    "rules": {
+      "duplicate item rows removed": 2,
+      "unit cost text ('Rs. 1,250.00') -> number": 207,
+      "UoM spelling standardised": 31,
+      "missing category filled from supplier category": 13,
+      "items with unknown supplier (should be 0)": 0
+    }
+  },
+  "sales": {
+    "rows_in": 232514,
+    "rows_out": 229084,
+    "rules": {
+      "item_id re-formatted (case/space/hyphen)": 15884,
+      "quarantined: unknown item_id": 0,
+      "quarantined: unparseable date": 0,
+      "customer name standardised": 46240,
+      "missing UoM filled from item master": 2340,
+      "quantities converted to item base UoM (g/MT -> kg, ml -> litre)": 438,
+      "UoM still different from base after conversion (should be 0)": 0,
+      "duplicate rows removed": 3430,
+      "negative dispatched qty -> absolute value (sign error)": 439,
+      "outlier schedule qty replaced by 7-row rolling median": 203,
+      "missing dispatched qty := schedule qty (assume full shipment)": 2309,
+      "missing customer := item's most frequent customer not already on that date": 1126
+    }
+  },
+  "purchase_orders": {
+    "rows_in": 10813,
+    "rows_out": 10676,
+    "rules": {
+      "quarantined: unknown item_id": 0,
+      "supplier name mapped to supplier_id": 1052,
+      "quarantined: unknown supplier": 0,
+      "price/quantity text ('Rs. 1,250.00', '1,200') -> number": 7874,
+      "duplicate PO lines removed": 104,
+      "quarantined: receipt date before PO date": 33,
+      "missing received qty on closed PO := order qty": 76
+    }
+  },
+  "inventory_snapshot": {
+    "rows_in": 36332,
+    "rows_out": 36000,
+    "rules": {
+      "duplicate snapshot rows removed": 332,
+      "location format standardised": 5368,
+      "negative on-hand treated as missing": 63,
+      "missing on-hand filled with neighbouring day (max 3 days)": 250,
+      "still missing after fill (kept as blank)": 0
+    }
+  },
+  "reorder_policy": {
+    "rows_in": 300,
+    "rows_out": 300,
+    "rules": {
+      "safety stock missing (will be recomputed in Phase 4)": 8,
+      "policy last reviewed more than 180 days before 2026-10-31": 126
+    }
+  }
+}

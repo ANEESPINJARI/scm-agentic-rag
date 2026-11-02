@@ -1,0 +1,14 @@
+From: quality@sahyadri-auto.example.com
+To: meera.more@sahyadribearingsco.example.com
+Date: Tue, 17 Jun 2025 10:34
+Subject: Rejection notice - PO/25-26/01655 - PN-10192
+Message-ID: <EML-0028@sahyadri-auto.example.com>
+
+Dear Meera,
+
+Incoming inspection of the lot received on 14-Jun-2025 against PO/25-26/01655 line 1, item PN-10192 (Needle bearing - E146), found 9 pieces rejected out of 11700 received. Defect observed: dimensional deviation beyond tolerance.
+Please submit an 8D report within 5 working days and replace the rejected quantity within 7 days as per the quality clause. Rejected material is tagged and held for your disposition.
+
+Regards,
+Quality Assurance
+Sahyadri Auto Components Pvt Ltd

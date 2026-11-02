@@ -1,0 +1,14 @@
+From: quality@sahyadri-auto.example.com
+To: prakash.more@sahyadripolymersud.example.com
+Date: Sat, 01 Aug 2026 10:38
+Subject: Rejection notice - PO/26-27/05973 - PN-10125
+Message-ID: <EML-0025@sahyadri-auto.example.com>
+
+Dear Prakash,
+
+Incoming inspection of the lot received on 30-Jul-2026 against PO/26-27/05973 line 1, item PN-10125 (Door seal strip - K354), found 8 pieces rejected out of 9000 received. Defect observed: surface porosity.
+Please submit an 8D report within 5 working days and replace the rejected quantity within 7 days as per the quality clause. Rejected material is tagged and held for your disposition.
+
+Regards,
+Quality Assurance
+Sahyadri Auto Components Pvt Ltd

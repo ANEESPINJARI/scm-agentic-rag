@@ -1,0 +1,29 @@
+# --- secrets ---
+.env
+*.pem
+*.key
+ 
+# --- python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+ 
+# --- project outputs that can be regenerated ---
+data/processed/*
+!data/processed/.gitkeep
+data/ground_truth/*
+!data/ground_truth/.gitkeep
+data/vectorstore/
+*.db
+*.sqlite
+ 
+# --- editors / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

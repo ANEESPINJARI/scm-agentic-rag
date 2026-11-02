@@ -1,0 +1,14 @@
+From: quality@sahyadri-auto.example.com
+To: sunita.pawar@omkarpolymersautop.example.com
+Date: Tue, 11 Mar 2025 10:32
+Subject: Rejection notice - PO/24-25/00763 - PN-10141
+Message-ID: <EML-0026@sahyadri-auto.example.com>
+
+Dear Sunita,
+
+Incoming inspection of the lot received on 08-Mar-2025 against PO/24-25/00763 line 2, item PN-10141 (ABS clip - B404), found 11 pieces rejected out of 7120 received. Defect observed: thread damage.
+Please submit an 8D report within 5 working days and replace the rejected quantity within 7 days as per the quality clause. Rejected material is tagged and held for your disposition.
+
+Regards,
+Quality Assurance
+Sahyadri Auto Components Pvt Ltd

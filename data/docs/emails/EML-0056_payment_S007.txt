@@ -1,0 +1,13 @@
+From: manoj.more@deccanfastenersent.example.com
+To: accounts@sahyadri-auto.example.com
+Date: Thu, 26 Mar 2026 10:53
+Subject: Payment reminder - invoice for PO/25-26/03970
+Message-ID: <EML-0056@sahyadri-auto.example.com>
+
+Dear Accounts Team,
+
+This is a reminder that payment of about INR 2,59,000 against PO/25-26/03970 line 2 (goods received 02-Feb-2026) is overdue as per the agreed 45 day payment terms. Please release payment or share the reason for hold.
+
+Regards,
+Manoj More
+Deccan Fasteners Enterprises

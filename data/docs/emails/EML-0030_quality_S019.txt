@@ -1,0 +1,14 @@
+From: quality@sahyadri-auto.example.com
+To: sunita.more@purandarpackaginga.example.com
+Date: Thu, 31 Jul 2025 10:27
+Subject: Rejection notice - PO/25-26/02301 - PN-10247
+Message-ID: <EML-0030@sahyadri-auto.example.com>
+
+Dear Sunita,
+
+Incoming inspection of the lot received on 29-Jul-2025 against PO/25-26/02301 line 1, item PN-10247 (VCI bag - W329), found 6 pieces rejected out of 2700 received. Defect observed: wrong marking on parts.
+Please submit an 8D report within 5 working days and replace the rejected quantity within 7 days as per the quality clause. Rejected material is tagged and held for your disposition.
+
+Regards,
+Quality Assurance
+Sahyadri Auto Components Pvt Ltd

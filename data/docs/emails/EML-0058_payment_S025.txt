@@ -1,0 +1,13 @@
+From: deepak.bhosale@samarthsteelindust.example.com
+To: accounts@sahyadri-auto.example.com
+Date: Sun, 23 Feb 2025 10:22
+Subject: Payment reminder - invoice for PO/24-25/00127
+Message-ID: <EML-0058@sahyadri-auto.example.com>
+
+Dear Accounts Team,
+
+This is a reminder that payment of about INR 8,81,292 against PO/24-25/00127 line 1 (goods received 06-Dec-2024) is overdue as per the agreed 60 day payment terms. Please release payment or share the reason for hold.
+
+Regards,
+Deepak Bhosale
+Samarth Steel Industries

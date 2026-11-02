@@ -1,0 +1,303 @@
+﻿item_id,description,category,uom,unit_cost_inr,supplier_id,moq,pack_size,planned_lead_time_days,criticality,storage_location
+PN-10001,Cylinder head casting - X860,Castings,NOS,"₹2,569.88",S003,170,100,17,High,WH-C/R18
+PN-10002,Gearbox casing - B865,,NOS,₹581.44,S001,140,10,19,Low,WH-A/R08
+PN-10003,Cylinder head casting - N163,Castings,NOS,₹784.19,S003,60,10,17,Low,WH-A/R18
+PN-10004,Gearbox casing - N512,Castings,NOS,641.87,S003,200,100,17,Medium,WH-C/R23
+PN-10005,Cylinder head casting - N331,Castings,NOS,606.04,S002,150,20,21,High,WH-C/R19
+PN-10006,Aluminium die-cast housing - X349,Castings,NOS,"Rs. 1,030.74",S002,70,20,21,Medium,WH-C/R24
+PN-10007,SG iron brake drum - E640,Castings,NOS,"1,654.15",S003,140,100,17,Medium,WH-A/R19
+PN-10008,Gearbox casing - M682,Castings,NOS,₹714.80,S002,160,50,21,Medium,WH-A/R31
+PN-10009,Cylinder head casting - H826,Castings,NOS,"₹1,388.10",S002,130,50,21,Low,WH-C/R34
+PN-10010,Aluminium die-cast housing - J544,Castings,NOS,"₹1,308.29",S002,180,10,21,High,WH-C/R33
+PN-10011,Cylinder head casting - D159,Castings,NOS,504.33,S002,100,100,21,Low,WH-A/R28
+PN-10012,Gearbox casing - L428,Castings,NOS,Rs. 965.70,S003,70,100,17,Low,WH-B/R31
+PN-10013,Aluminium die-cast housing - J399,Castings,NOS,851.60,S003,150,50,17,Medium,WH-A/R19
+PN-10014,Oil pan casting - E854,Castings,NOS,632.43,S001,130,100,19,High,WH-B/R18
+PN-10015,Aluminium die-cast housing - K926,Castings,NOS,"1,006.79",S001,120,20,19,Low,WH-A/R37
+PN-10016,Aluminium die-cast housing - S543,Castings,NOS,725.52,S001,140,10,19,High,WH-C/R33
+PN-10017,SG iron brake drum - T751,Castings,NOS,"₹1,664.22",S003,60,50,17,Medium,WH-B/R37
+PN-10018,SG iron brake drum - K917,Castings,NOS,"₹1,210.92",S003,130,50,17,Low,WH-B/R14
+PN-10019,Cylinder head casting - J665,,Nos,"₹1,251.95",S001,190,20,19,Medium,WH-A/R13
+PN-10020,Gearbox casing - C638,Castings,NOS,473.51,S001,100,10,19,Medium,WH-A/R28
+PN-10021,Oil pan casting - L685,Castings,NOS,"1,651.24",S003,160,50,17,Low,WH-C/R25
+PN-10022,Oil pan casting - P597,Castings,NOS,"₹2,663.22",S003,120,50,17,Low,WH-A/R39
+PN-10023,Gearbox casing - A965,Castings,NOS,Rs. 812.80,S001,170,100,19,Medium,WH-C/R13
+PN-10024,SG iron brake drum - M821,Castings,NOS,"₹1,046.81",S003,130,100,17,Low,WH-A/R02
+PN-10025,Cylinder head casting - R690,Castings,NOS,₹966.58,S003,160,10,17,Low,WH-C/R16
+PN-10026,Oil pan casting - K104,Castings,NOS,₹497.54,S003,180,50,17,Medium,WH-B/R02
+PN-10027,SG iron brake drum - E571,Castings,NOS,"₹1,025.09",S001,180,100,19,Medium,WH-C/R28
+PN-10028,Cylinder head casting - R176,Castings,NOS,"₹1,015.85",S002,80,20,21,Low,WH-B/R32
+PN-10029,Oil pan casting - C267,Castings,NOS,"₹3,490.99",S002,140,100,21,Medium,WH-C/R03
+PN-10030,SG iron brake drum - B160,Castings,NOS,"₹2,941.79",S002,100,10,21,High,WH-A/R18
+PN-10031,Gearbox casing - Z552,Castings,NOS,"1,653.85",S003,160,100,17,Low,WH-A/R16
+PN-10032,Cylinder head casting - E631,Castings,NOS,₹877.09,S001,160,50,19,Medium,WH-C/R10
+PN-10033,Cylinder head casting - M625,Castings,EA,871.98,S001,170,50,19,Medium,WH-B/R38
+PN-10034,Aluminium die-cast housing - K266,Castings,NOS,"₹1,795.48",S003,170,50,17,High,WH-B/R26
+PN-10035,Aluminium die-cast housing - A764,Castings,NOS,"₹3,193.68",S001,190,20,19,High,WH-A/R23
+PN-10036,Steering knuckle - V200,Forgings,PCS,Rs. 742.91,S004,120,20,25,High,WH-C/R28
+PN-10037,Crankshaft forging - J360,Forgings,NOS,Rs. 453.17,S004,100,20,25,High,WH-C/R05
+PN-10038,Steering knuckle - K856,Forgings,pcs,Rs. 795.59,S005,330,20,21,Medium,WH-B/R10
+PN-10039,Crankshaft forging - G533,Forgings,NOS,₹780.45,S005,380,20,21,Low,WH-B/R08
+PN-10040,Axle shaft blank - X269,Forgings,NOS,329.70,S004,100,10,25,High,WH-C/R25
+PN-10041,Axle shaft blank - V352,Forgings,NOS,485.53,S005,100,50,21,High,WH-B/R35
+PN-10042,Axle shaft blank - Z642,Forgings,NOS,"Rs. 1,649.60",S005,240,100,21,Medium,WH-C/R32
+PN-10043,Connecting rod forging - E671,Forgings,NOS,₹565.76,S004,220,100,25,High,WH-A/R29
+PN-10044,Axle shaft blank - G763,Forgings,NOS,Rs. 311.60,S004,310,20,25,Low,WH-A/R24
+PN-10045,Axle shaft blank - D209,Forgings,NOS,Rs. 385.63,S004,250,20,25,High,WH-A/R22
+PN-10046,Crankshaft forging - J582,Forgings,NOS,Rs. 961.63,S005,360,50,21,Medium,WH-C/R02
+PN-10047,Steering knuckle - V146,Forgings,NOS,980.85,S005,110,10,21,Low,WH-A/R33
+PN-10048,Axle shaft blank - M752,Forgings,NOS,"1,013.03",S004,300,50,25,Low,WH-C/R39
+PN-10049,Connecting rod forging - T484,Forgings,NOS,₹691.70,S004,260,100,25,Low,WH-A/R26
+PN-10050,Axle shaft blank - R279,Forgings,NOS,"1,168.85",S004,150,100,25,Low,WH-A/R09
+PN-10051,Steering knuckle - H179,Forgings,NOS,764.96,S005,260,50,21,Low,WH-C/R38
+PN-10052,Crankshaft forging - L189,Forgings,NOS,369.53,S005,340,10,21,Low,WH-B/R01
+PN-10053,Connecting rod forging - W663,Forgings,NOS,"Rs. 2,110.79",S005,220,20,21,Medium,WH-B/R16
+PN-10054,Connecting rod forging - H439,Forgings,NOS,₹995.03,S004,160,20,25,High,WH-A/R07
+PN-10055,Axle shaft blank - F525,Forgings,NOS,"1,173.47",S005,130,50,21,Medium,WH-C/R19
+PN-10056,Crankshaft forging - C140,Forgings,NOS,Rs. 434.38,S004,180,20,25,Low,WH-A/R26
+PN-10057,Axle shaft blank - G371,Forgings,NOS,Rs. 805.16,S004,330,100,25,Low,WH-C/R24
+PN-10058,Connecting rod forging - E597,Forgings,NOS,"Rs. 2,003.33",S005,190,10,21,Low,WH-C/R25
+PN-10059,Steering knuckle - D437,Forgings,PCS,₹883.95,S004,360,50,25,Medium,WH-C/R34
+PN-10060,Connecting rod forging - N946,,NOS,672.11,S004,160,10,25,Low,WH-C/R04
+PN-10061,Flange nut - J266,Fasteners,NOS,Rs. 3.69,S007,5600,100,18,Low,WH-C/R23
+PN-10062,Hex bolt - G244,Fasteners,NOS,4.76,S008,3960,100,9,Low,WH-A/R31
+PN-10063,Hex bolt - M424,Fasteners,NOS,Rs. 8.72,S007,5480,20,18,Low,WH-A/R04
+PN-10064,Wheel bolt - D327,Fasteners,NOS,38.38,S007,3660,10,18,High,WH-A/R36
+PN-10065,Flange nut - J693,Fasteners,NOS,Rs. 4.48,S008,6260,100,9,Low,WH-C/R32
+PN-10066,Wheel bolt - M145,,NOS,7.39,S008,4730,20,9,Low,WH-B/R25
+PN-10067,Spring washer - X358,Fasteners,NOS,19.28,S006,5500,100,12,Low,WH-A/R11
+PN-10068,Stud - T668,Fasteners,NOS,1.85,S006,3220,20,12,Low,WH-B/R13
+PN-10069,Wheel bolt - N651,Fasteners,NOS,17.73,S007,5780,50,18,High,WH-B/R04
+PN-10070,Flange nut - S773,Fasteners,NOS,Rs. 26.65,S008,9140,100,9,Medium,WH-C/R26
+PN-10071,Spring washer - S903,Fasteners,NOS,₹4.20,S008,5230,10,9,Medium,WH-C/R29
+PN-10072,Flange nut - K495,Fasteners,NOS,6.24,S008,5270,10,9,High,WH-A/R27
+PN-10073,Socket head screw - G246,Fasteners,NOS,₹13.94,S008,3580,100,9,High,WH-C/R36
+PN-10074,Wheel bolt - F706,Fasteners,NOS,₹2.33,S008,4270,100,9,High,WH-C/R22
+PN-10075,Flange nut - F157,Fasteners,NOS,₹16.30,S008,7000,50,9,Medium,WH-C/R18
+PN-10076,Flange nut - H499,Fasteners,NOS,Rs. 1.62,S008,6880,100,9,Low,WH-A/R13
+PN-10077,Wheel bolt - H462,Fasteners,NOS,Rs. 9.56,S008,3950,100,9,Low,WH-C/R37
+PN-10078,Socket head screw - P510,Fasteners,NOS,Rs. 18.90,S008,5840,10,9,Medium,WH-B/R12
+PN-10079,Wheel bolt - E361,Fasteners,NOS,₹3.61,S006,8530,50,12,High,WH-A/R02
+PN-10080,Hex bolt - N204,Fasteners,NOS,22.60,S007,8190,20,18,Low,WH-A/R08
+PN-10081,Hex bolt - X668,Fasteners,NOS,Rs. 2.53,S008,9850,100,9,Low,WH-A/R10
+PN-10082,Hex bolt - N258,Fasteners,NOS,30.42,S006,8660,20,12,Medium,WH-A/R20
+PN-10083,Hex bolt - Z195,Fasteners,NOS,15.48,S006,6130,50,12,Low,WH-C/R13
+PN-10084,Flange nut - T417,Fasteners,NOS,7.20,S006,7380,100,12,Low,WH-C/R33
+PN-10085,Wheel bolt - T299,Fasteners,NOS,₹6.19,S008,5930,20,9,Low,WH-A/R36
+PN-10086,Hex bolt - E100,Fasteners,NOS,₹2.53,S006,2420,20,12,Low,WH-A/R02
+PN-10087,Socket head screw - D341,,NOS,₹13.79,S006,8890,50,12,Low,WH-B/R02
+PN-10088,Spring washer - E553,Fasteners,NOS,5.74,S006,8020,100,12,Medium,WH-A/R15
+PN-10089,Flange nut - C403,Fasteners,NOS,₹3.16,S008,2690,10,9,Low,WH-A/R03
+PN-10090,Flange nut - X453,Fasteners,NOS,₹43.55,S007,5590,100,18,Low,WH-C/R35
+PN-10091,Spring washer - G105,Fasteners,NOS,Rs. 2.88,S008,7880,50,9,Low,WH-B/R15
+PN-10092,Flange nut - P333,Fasteners,NOS,1.64,S008,5890,20,9,Low,WH-A/R33
+PN-10093,Spring washer - L504,Fasteners,NOS,10.12,S006,4520,50,12,High,WH-C/R15
+PN-10094,Hex bolt - V900,Fasteners,NOS,Rs. 3.09,S006,3380,20,12,Medium,WH-C/R37
+PN-10095,Flange nut - E124,Fasteners,NOS,Rs. 1.84,S007,7440,100,18,High,WH-A/R05
+PN-10096,Flange nut - H424,,NOS,2.73,S007,4560,10,18,Medium,WH-B/R11
+PN-10097,Hex bolt - X777,Fasteners,NOS,₹11.96,S006,2800,10,12,Medium,WH-A/R16
+PN-10098,Stud - D996,Fasteners,NOS,27.24,S006,6210,10,12,Medium,WH-A/R13
+PN-10099,Stud - D393,Fasteners,nos,37.79,S008,9830,50,9,Low,WH-B/R38
+PN-10100,Wheel bolt - E273,Fasteners,NOS,₹5.80,S007,4570,10,18,Low,WH-A/R23
+PN-10101,Wheel bolt - P821,Fasteners,NOS,5.08,S008,9410,50,9,Medium,WH-B/R11
+PN-10102,Wheel bolt - H388,Fasteners,NOS,₹10.35,S007,6440,20,18,Medium,WH-B/R04
+PN-10103,Socket head screw - E781,Fasteners,NOS,₹2.64,S008,6500,50,9,Low,WH-A/R38
+PN-10104,Hex bolt - V452,Fasteners,NOS,Rs. 11.44,S008,9560,100,9,Medium,WH-C/R01
+PN-10105,Wheel bolt - A235,Fasteners,NOS,Rs. 1.71,S006,7950,10,12,Medium,WH-B/R18
+PN-10106,Hex bolt - V608,,NOS,21.78,S006,4980,20,12,High,WH-B/R31
+PN-10107,Flange nut - Z865,Fasteners,PCS,₹8.12,S006,8850,100,12,Low,WH-B/R23
+PN-10108,Socket head screw - P982,Fasteners,NOS,Rs. 2.12,S007,6520,50,18,Medium,WH-C/R15
+PN-10109,Flange nut - V734,Fasteners,NOS,Rs. 6.21,S006,4280,50,12,High,WH-C/R37
+PN-10110,Socket head screw - C438,Fasteners,EA,Rs. 7.26,S007,7350,50,18,High,WH-B/R19
+PN-10111,Hex bolt - D266,Fasteners,NOS,Rs. 8.86,S007,4750,50,18,Medium,WH-C/R09
+PN-10112,Stud - W670,Fasteners,PCS,41.25,S008,8970,20,9,Medium,WH-B/R02
+PN-10113,Flange nut - A590,Fasteners,NOS,9.24,S007,7650,50,18,High,WH-C/R13
+PN-10114,Socket head screw - X240,Fasteners,NOS,25.89,S008,8680,50,9,Low,WH-C/R23
+PN-10115,Flange nut - Z811,Fasteners,NOS,Rs. 5.79,S006,4490,50,12,Low,WH-A/R08
+PN-10116,Door seal strip - P857,Rubber & Plastics,NOS,₹163.81,S009,2940,100,14,High,WH-C/R32
+PN-10117,Door seal strip - Z787,Rubber & Plastics,NOS,₹53.47,S009,2260,20,14,Medium,WH-B/R11
+PN-10118,Engine mount bush - S501,Rubber & Plastics,NOS,31.26,S010,2450,100,12,Medium,WH-A/R02
+PN-10119,Wiper blade rubber - E697,Rubber & Plastics,pcs,₹13.84,S011,1790,100,14,High,WH-C/R22
+PN-10119,Wiper blade rubber - E697,Rubber & Plastics,pcs,₹13.84,S011,1790,100,14,High,WH-C/R22
+PN-10120,Engine mount bush - H920,Rubber & Plastics,NOS,13.66,S009,1920,50,14,Medium,WH-C/R08
+PN-10121,Rubber grommet - X200,,NOS,129.86,S010,1370,20,12,Medium,WH-A/R25
+PN-10122,Engine mount bush - N388,Rubber & Plastics,NOS,29.86,S011,960,50,14,Medium,WH-A/R17
+PN-10123,Rubber grommet - X839,Rubber & Plastics,NOS,17.73,S011,970,50,14,Medium,WH-B/R02
+PN-10124,Wiper blade rubber - X479,Rubber & Plastics,NOS,₹36.58,S010,1690,10,12,Medium,WH-A/R09
+PN-10125,Door seal strip - K354,Rubber & Plastics,NOS,73.63,S009,2740,50,14,Low,WH-A/R29
+PN-10126,Engine mount bush - T667,Rubber & Plastics,NOS,121.62,S010,2640,20,12,Medium,WH-C/R27
+PN-10127,ABS clip - V141,Rubber & Plastics,NOS,Rs. 226.67,S010,1760,20,12,High,WH-B/R24
+PN-10128,ABS clip - E904,Rubber & Plastics,NOS,Rs. 12.63,S011,2370,20,14,High,WH-A/R38
+PN-10129,ABS clip - M754,Rubber & Plastics,NOS,₹13.69,S009,2710,10,14,High,WH-C/R30
+PN-10130,ABS clip - J214,Rubber & Plastics,nos,Rs. 42.30,S010,1270,50,12,Low,WH-A/R03
+PN-10131,ABS clip - V494,Rubber & Plastics,NOS,42.71,S009,1620,20,14,Medium,WH-A/R08
+PN-10132,Engine mount bush - D382,Rubber & Plastics,NOS,₹40.73,S009,2380,20,14,High,WH-A/R18
+PN-10133,Door seal strip - T428,Rubber & Plastics,NOS,₹22.97,S010,2830,50,12,Low,WH-B/R25
+PN-10134,ABS clip - H514,Rubber & Plastics,NOS,₹67.71,S011,2480,10,14,High,WH-B/R19
+PN-10135,Rubber grommet - M989,Rubber & Plastics,NOS,Rs. 44.71,S011,2590,50,14,Low,WH-A/R03
+PN-10136,ABS clip - C461,Rubber & Plastics,NOS,255.36,S011,1290,20,14,Medium,WH-B/R37
+PN-10137,Rubber grommet - D771,Rubber & Plastics,NOS,26.56,S009,990,50,14,Medium,WH-C/R03
+PN-10138,Wiper blade rubber - Z337,Rubber & Plastics,PCS,Rs. 85.74,S011,2530,100,14,High,WH-A/R27
+PN-10139,Door seal strip - Z104,Rubber & Plastics,NOS,Rs. 136.29,S010,1160,100,12,Medium,WH-B/R31
+PN-10140,Fuel hose clamp cover - R103,Rubber & Plastics,NOS,₹117.50,S011,1030,50,14,Low,WH-C/R02
+PN-10141,ABS clip - B404,,NOS,16.50,S011,1490,10,14,High,WH-B/R07
+PN-10142,Rubber grommet - S720,Rubber & Plastics,NOS,₹33.35,S009,2110,100,14,Medium,WH-B/R16
+PN-10143,Door seal strip - S472,Rubber & Plastics,PCS,199.11,S009,740,10,14,High,WH-A/R16
+PN-10144,Fuel hose clamp cover - P339,Rubber & Plastics,NOS,₹21.91,S010,2510,20,12,Medium,WH-A/R06
+PN-10145,Rubber grommet - V329,Rubber & Plastics,NOS,Rs. 213.80,S010,1500,10,12,Medium,WH-A/R17
+PN-10146,Fuel hose clamp cover - B304,Rubber & Plastics,NOS,16.67,S011,2620,10,14,Low,WH-B/R12
+PN-10147,ABS clip - T195,Rubber & Plastics,NOS,69.00,S009,2850,100,14,Low,WH-B/R08
+PN-10148,Engine mount bush - Z314,Rubber & Plastics,NOS,106.93,S010,790,50,12,Medium,WH-B/R23
+PN-10149,ABS clip - F360,Rubber & Plastics,EA,₹31.65,S011,2340,20,14,High,WH-B/R14
+PN-10150,Door seal strip - J416,Rubber & Plastics,NOS,226.70,S011,2960,50,14,Medium,WH-A/R39
+PN-10151,Door seal strip - F639,Rubber & Plastics,NOS,₹11.09,S009,2470,50,14,Low,WH-C/R31
+PN-10152,Wiper blade rubber - X845,Rubber & Plastics,NOS,116.82,S009,2150,10,14,High,WH-C/R28
+PN-10153,Rubber grommet - H774,,NOS,56.89,S010,2660,100,12,Low,WH-B/R34
+PN-10154,Engine mount bush - S896,Rubber & Plastics,NOS,108.78,S009,2370,10,14,Medium,WH-B/R31
+PN-10155,Fuel hose clamp cover - Z197,Rubber & Plastics,NOS,Rs. 18.82,S010,2280,20,12,Medium,WH-C/R05
+PN-10156,Main wiring harness - V829,Wiring Harness,NOS,₹565.95,S012,460,20,14,Medium,WH-A/R06
+PN-10157,Main wiring harness - G361,Wiring Harness,NOS,"Rs. 1,698.36",S013,170,10,14,High,WH-A/R15
+PN-10158,Main wiring harness - S621,Wiring Harness,NOS,"1,761.91",S012,430,100,14,Medium,WH-B/R35
+PN-10159,Headlamp harness - K250,Wiring Harness,NOS,₹841.88,S012,240,10,14,Low,WH-A/R31
+PN-10160,Ignition coil lead - Z716,Wiring Harness,NOS,₹303.79,S012,230,100,14,High,WH-C/R30
+PN-10161,Ignition coil lead - X985,Wiring Harness,NOS,₹420.02,S013,220,10,14,Medium,WH-A/R12
+PN-10162,Ignition coil lead - N706,Wiring Harness,NOS,Rs. 793.54,S013,380,50,14,High,WH-C/R18
+PN-10163,Main wiring harness - K793,Wiring Harness,NOS,519.77,S012,400,100,14,Medium,WH-C/R02
+PN-10164,Battery cable assembly - X542,Wiring Harness,NOS,594.01,S013,470,50,14,Medium,WH-C/R29
+PN-10165,Headlamp harness - X601,Wiring Harness,NOS,₹255.87,S013,300,100,14,Medium,WH-C/R23
+PN-10166,Ignition coil lead - H791,Wiring Harness,NOS,₹347.08,S012,270,50,14,High,WH-A/R23
+PN-10167,Ignition coil lead - P455,Wiring Harness,NOS,₹304.27,S012,230,20,14,Low,WH-B/R06
+PN-10168,Battery cable assembly - H997,Wiring Harness,NOS,"Rs. 1,476.64",S012,440,10,14,Medium,WH-B/R10
+PN-10169,Ignition coil lead - Z406,Wiring Harness,NOS,₹382.28,S012,310,50,14,Low,WH-C/R13
+PN-10170,Headlamp harness - F986,Wiring Harness,NOS,₹668.19,S012,280,100,14,Low,WH-B/R32
+PN-10171,Ignition coil lead - M617,Wiring Harness,NOS,Rs. 387.35,S012,300,20,14,Low,WH-B/R32
+PN-10172,Main wiring harness - Z501,Wiring Harness,NOS,Rs. 440.84,S012,440,10,14,Low,WH-C/R22
+PN-10173,Main wiring harness - P717,Wiring Harness,EA,Rs. 230.00,S012,210,10,14,Medium,WH-A/R32
+PN-10174,Headlamp harness - R498,Wiring Harness,NOS,"Rs. 1,309.91",S012,280,10,14,Low,WH-B/R35
+PN-10175,Main wiring harness - M906,Wiring Harness,pcs,225.15,S012,160,100,14,Low,WH-B/R08
+PN-10176,Ignition coil lead - T423,,NOS,"Rs. 1,631.19",S013,290,10,14,High,WH-A/R14
+PN-10177,Battery cable assembly - P667,Wiring Harness,NOS,Rs. 981.37,S013,340,50,14,Low,WH-C/R02
+PN-10178,Ignition coil lead - W301,Wiring Harness,NOS,Rs. 597.10,S012,120,20,14,Medium,WH-A/R07
+PN-10179,Battery cable assembly - X372,Wiring Harness,NOS,"Rs. 1,244.49",S013,110,50,14,High,WH-C/R35
+PN-10180,Main wiring harness - T170,Wiring Harness,NOS,"1,690.72",S013,320,100,14,Medium,WH-C/R24
+PN-10181,Needle bearing - S731,Bearings,NOS,189.97,S015,260,10,25,Medium,WH-C/R29
+PN-10182,Tapered roller bearing - Z257,Bearings,PCS,₹142.13,S015,500,10,25,Medium,WH-B/R37
+PN-10182,Tapered roller bearing - Z257,Bearings,PCS,₹142.13,S015,500,10,25,Medium,WH-B/R37
+PN-10183,Deep groove ball bearing - H805,Bearings,NOS,Rs. 455.84,S015,880,50,25,Low,WH-B/R05
+PN-10184,Wheel hub bearing - R706,Bearings,NOS,₹406.79,S014,270,20,29,High,WH-B/R19
+PN-10185,Wheel hub bearing - V385,Bearings,NOS,₹481.23,S014,620,10,29,Low,WH-B/R10
+PN-10186,Deep groove ball bearing - F237,Bearings,PCS,82.64,S015,310,50,25,High,WH-B/R12
+PN-10187,Deep groove ball bearing - L482,Bearings,NOS,Rs. 88.27,S015,420,50,25,Medium,WH-B/R13
+PN-10188,Wheel hub bearing - G454,Bearings,NOS,₹81.00,S015,570,100,25,Medium,WH-C/R21
+PN-10189,Deep groove ball bearing - H763,Bearings,NOS,Rs. 309.11,S015,540,10,25,Low,WH-C/R13
+PN-10190,Tapered roller bearing - L668,Bearings,NOS,₹315.89,S014,830,100,29,Low,WH-C/R02
+PN-10191,Deep groove ball bearing - H270,Bearings,NOS,₹205.06,S015,990,10,25,Low,WH-B/R20
+PN-10192,Needle bearing - E146,Bearings,NOS,Rs. 225.79,S014,300,100,29,Medium,WH-C/R20
+PN-10193,Tapered roller bearing - L975,Bearings,NOS,₹77.08,S015,980,100,25,Low,WH-B/R07
+PN-10194,Deep groove ball bearing - X977,Bearings,NOS,Rs. 129.84,S014,620,10,29,Medium,WH-A/R02
+PN-10195,Tapered roller bearing - D435,Bearings,NOS,₹177.09,S014,740,50,29,Medium,WH-B/R12
+PN-10196,Deep groove ball bearing - F292,Bearings,NOS,217.65,S015,660,100,25,Medium,WH-C/R02
+PN-10197,Wheel hub bearing - S366,Bearings,NOS,Rs. 235.21,S015,300,100,25,Medium,WH-C/R06
+PN-10198,Wheel hub bearing - C566,Bearings,NOS,Rs. 430.68,S015,330,50,25,High,WH-B/R24
+PN-10199,Deep groove ball bearing - A782,Bearings,NOS,Rs. 62.39,S014,290,20,29,High,WH-A/R14
+PN-10200,Tapered roller bearing - H394,Bearings,NOS,Rs. 102.23,S014,470,10,29,High,WH-A/R08
+PN-10201,Tapered roller bearing - L939,Bearings,EA,485.07,S014,630,10,29,Low,WH-C/R29
+PN-10202,Deep groove ball bearing - T377,Bearings,NOS,711.83,S015,850,100,25,High,WH-C/R39
+PN-10203,Wheel hub bearing - A764,Bearings,NOS,503.42,S014,820,100,29,Low,WH-B/R14
+PN-10204,Wheel hub bearing - K338,Bearings,NOS,₹128.57,S014,560,20,29,Medium,WH-A/R35
+PN-10205,Tapered roller bearing - G146,Bearings,pcs,₹126.60,S015,600,20,25,Medium,WH-A/R02
+PN-10206,Needle bearing - Z330,Bearings,NOS,Rs. 158.60,S014,860,100,29,Low,WH-B/R38
+PN-10207,Needle bearing - D372,Bearings,NOS,607.51,S015,850,20,25,Low,WH-A/R37
+PN-10208,Deep groove ball bearing - D833,Bearings,NOS,284.80,S014,680,10,29,Medium,WH-A/R11
+PN-10209,Tapered roller bearing - W334,Bearings,NOS,₹374.44,S014,350,10,29,Low,WH-B/R20
+PN-10210,Wheel hub bearing - T929,Bearings,NOS,92.39,S014,590,10,29,High,WH-B/R37
+PN-10211,Bracket stamping - K376,Stampings,NOS,Rs. 587.64,S018,530,50,11,Medium,WH-C/R19
+PN-10212,Heat shield - N689,Stampings,NOS,₹31.27,S018,470,10,11,Low,WH-C/R30
+PN-10213,Chassis cross-member - H520,Stampings,NOS,₹463.49,S018,630,100,11,Medium,WH-A/R22
+PN-10214,Chassis cross-member - G448,Stampings,NOS,₹90.45,S016,700,20,9,Medium,WH-C/R31
+PN-10215,Mudguard panel - L919,Stampings,NOS,Rs. 88.35,S016,930,20,9,Medium,WH-A/R39
+PN-10216,Mudguard panel - A213,Stampings,NOS,Rs. 669.68,S018,650,100,11,Medium,WH-A/R29
+PN-10217,Clutch cover pressing - S571,Stampings,NOS,452.94,S017,870,10,10,Medium,WH-A/R28
+PN-10218,Mudguard panel - W404,Stampings,NOS,439.54,S016,350,50,9,High,WH-C/R04
+PN-10219,Mudguard panel - G248,Stampings,NOS,Rs. 482.01,S016,980,50,9,Medium,WH-B/R24
+PN-10220,Clutch cover pressing - Z755,Stampings,NOS,₹28.52,S016,200,100,9,Low,WH-A/R19
+PN-10221,Heat shield - L363,Stampings,NOS,Rs. 126.28,S018,540,50,11,Low,WH-C/R33
+PN-10222,Bracket stamping - F256,Stampings,NOS,Rs. 90.08,S016,430,100,9,Medium,WH-B/R36
+PN-10223,Clutch cover pressing - B457,Stampings,NOS,₹27.87,S018,410,20,11,High,WH-A/R06
+PN-10224,Mudguard panel - G224,Stampings,NOS,Rs. 131.41,S017,860,20,10,Medium,WH-A/R34
+PN-10225,Mudguard panel - D564,Stampings,NOS,Rs. 85.66,S016,260,100,9,Low,WH-A/R01
+PN-10226,Heat shield - W150,Stampings,NOS,442.77,S016,220,100,9,High,WH-B/R22
+PN-10227,Bracket stamping - L460,Stampings,NOS,103.46,S016,990,50,9,High,WH-C/R12
+PN-10228,Bracket stamping - V476,Stampings,NOS,₹479.30,S017,410,20,10,Medium,WH-A/R19
+PN-10229,Clutch cover pressing - H824,Stampings,NOS,Rs. 74.30,S018,320,10,11,High,WH-B/R18
+PN-10230,Chassis cross-member - C142,Stampings,NOS,₹421.35,S018,210,100,11,Low,WH-A/R02
+PN-10231,Bracket stamping - S604,Stampings,nos,302.35,S017,490,20,10,Low,WH-B/R38
+PN-10232,Mudguard panel - E812,Stampings,nos,47.01,S016,680,100,9,Low,WH-B/R32
+PN-10233,Mudguard panel - G584,Stampings,NOS,₹56.99,S018,950,100,11,Medium,WH-C/R08
+PN-10234,Clutch cover pressing - C160,Stampings,NOS,126.73,S017,620,100,10,High,WH-A/R08
+PN-10235,Mudguard panel - S149,Stampings,NOS,320.24,S018,250,100,11,Low,WH-B/R03
+PN-10236,Bracket stamping - E960,Stampings,NOS,273.85,S018,760,50,11,Medium,WH-B/R18
+PN-10237,Heat shield - E403,Stampings,NOS,₹310.57,S016,630,100,9,High,WH-B/R19
+PN-10238,Chassis cross-member - D676,Stampings,NOS,₹174.42,S017,780,100,10,Medium,WH-C/R21
+PN-10239,Mudguard panel - M598,Stampings,NOS,₹188.45,S018,900,20,11,Medium,WH-A/R08
+PN-10240,Mudguard panel - G404,Stampings,PCS,₹288.52,S016,670,20,9,Low,WH-A/R29
+PN-10241,Chassis cross-member - D244,Stampings,NOS,₹141.29,S018,350,100,11,Medium,WH-C/R39
+PN-10242,Clutch cover pressing - V794,Stampings,NOS,35.56,S016,510,100,9,High,WH-C/R24
+PN-10243,Heat shield - X683,Stampings,NOS,610.81,S018,910,100,11,High,WH-B/R30
+PN-10244,Mudguard panel - L845,Stampings,NOS,Rs. 131.67,S018,960,20,11,High,WH-B/R37
+PN-10245,Bracket stamping - K884,Stampings,Nos,₹567.57,S018,540,20,11,High,WH-A/R13
+PN-10246,Returnable plastic crate - H246,Packaging,NOS,₹9.85,S020,820,50,6,Medium,WH-C/R25
+PN-10247,VCI bag - W329,Packaging,NOS,133.53,S019,1740,50,4,Medium,WH-B/R21
+PN-10248,Returnable plastic crate - D439,Packaging,NOS,Rs. 6.35,S020,1670,10,6,Medium,WH-A/R20
+PN-10249,Returnable plastic crate - Z653,Packaging,NOS,₹26.52,S019,760,100,4,Medium,WH-A/R10
+PN-10250,Corrugated carton - Z122,Packaging,NOS,₹53.58,S019,1540,20,4,Medium,WH-C/R02
+PN-10251,Returnable plastic crate - L390,Packaging,NOS,Rs. 49.04,S019,1410,20,4,High,WH-A/R18
+PN-10252,Returnable plastic crate - K843,Packaging,NOS,Rs. 177.30,S020,1630,50,6,Medium,WH-A/R28
+PN-10253,Corrugated carton - A419,Packaging,NOS,Rs. 111.42,S019,1750,50,4,High,WH-A/R24
+PN-10254,VCI bag - V790,Packaging,NOS,Rs. 18.71,S019,1100,100,4,Medium,WH-C/R05
+PN-10255,Foam separator - J611,Packaging,NOS,Rs. 16.39,S019,1910,20,4,Medium,WH-B/R21
+PN-10256,Foam separator - T309,Packaging,NOS,Rs. 77.82,S019,1420,50,4,Medium,WH-A/R35
+PN-10257,Corrugated carton - F369,Packaging,NOS,Rs. 97.34,S019,1240,20,4,Low,WH-C/R36
+PN-10258,Corrugated carton - W613,Packaging,NOS,₹118.66,S020,1900,20,6,Medium,WH-B/R14
+PN-10259,VCI bag - L588,Packaging,NOS,16.01,S020,1830,50,6,Medium,WH-B/R10
+PN-10260,Foam separator - V783,Packaging,NOS,Rs. 12.23,S019,1570,50,4,Low,WH-A/R12
+PN-10261,Cutting fluid - P160,Lubricants,LTR,437.13,S021,880,25,9,Medium,WH-A/R32
+PN-10262,Gear oil EP90 - J583,Lubricants,LTR,Rs. 357.56,S021,650,25,9,High,WH-A/R33
+PN-10263,Cutting fluid - L451,Lubricants,LTR,214.64,S021,840,25,9,High,WH-C/R23
+PN-10264,Assembly grease - J378,Lubricants,LTR,₹238.10,S021,580,25,9,Medium,WH-A/R19
+PN-10265,Gear oil EP90 - T345,Lubricants,LTR,398.10,S022,880,25,15,Medium,WH-B/R12
+PN-10266,Cutting fluid - F249,Lubricants,ltr,354.73,S021,610,25,9,Medium,WH-A/R35
+PN-10267,Coolant concentrate - V948,,L,510.14,S022,230,25,15,Low,WH-C/R27
+PN-10268,Cutting fluid - R556,Lubricants,LTR,₹262.08,S022,570,25,15,High,WH-B/R07
+PN-10269,Cutting fluid - F126,Lubricants,LTR,₹307.99,S021,310,25,9,High,WH-A/R20
+PN-10270,Coolant concentrate - L326,Lubricants,LTR,Rs. 513.09,S022,850,25,15,Medium,WH-B/R07
+PN-10271,Gear oil EP90 - J908,,LTR,355.59,S021,910,25,9,Medium,WH-A/R22
+PN-10272,Assembly grease - D330,Lubricants,LTR,195.86,S022,620,25,15,Medium,WH-C/R04
+PN-10273,Wheel speed sensor - K803,Sensors & Electronics,NOS,"Rs. 1,668.07",S023,170,10,39,High,WH-C/R20
+PN-10274,ECU relay module - C172,Sensors & Electronics,NOS,164.78,S023,270,100,39,Low,WH-C/R34
+PN-10275,ECU relay module - S926,Sensors & Electronics,NOS,"₹1,099.92",S023,230,10,39,Medium,WH-A/R03
+PN-10276,Throttle position sensor - V990,Sensors & Electronics,NOS,"2,221.23",S023,270,10,39,Low,WH-A/R35
+PN-10277,Wheel speed sensor - M562,Sensors & Electronics,EA,Rs. 172.44,S023,230,20,39,High,WH-B/R05
+PN-10278,Wheel speed sensor - S722,Sensors & Electronics,NOS,Rs. 201.42,S023,140,50,39,Medium,WH-B/R37
+PN-10279,Temperature sensor - E988,Sensors & Electronics,NOS,Rs. 450.37,S023,250,100,39,Medium,WH-B/R25
+PN-10280,ECU relay module - A542,Sensors & Electronics,EA,410.94,S023,300,10,39,Medium,WH-B/R05
+PN-10281,Wheel speed sensor - W249,Sensors & Electronics,NOS,₹301.53,S023,140,10,39,Low,WH-A/R28
+PN-10282,Throttle position sensor - T636,Sensors & Electronics,NOS,168.10,S023,160,20,39,Low,WH-C/R12
+PN-10283,Wheel speed sensor - X764,Sensors & Electronics,nos,"₹1,041.05",S023,300,20,39,High,WH-C/R32
+PN-10284,Temperature sensor - E842,Sensors & Electronics,NOS,"Rs. 1,225.60",S023,190,50,39,Medium,WH-C/R26
+PN-10285,ECU relay module - H489,Sensors & Electronics,NOS,₹324.47,S023,260,20,39,High,WH-C/R09
+PN-10286,CRCA steel coil - T660,Raw Steel,KG,97.36,S024,5010,25,10,Medium,WH-A/R32
+PN-10287,Case hardening steel bar - P279,Raw Steel,KG,Rs. 76.95,S024,5450,25,10,Medium,WH-C/R17
+PN-10288,CRCA steel coil - J857,Raw Steel,kgs,92.14,S024,2990,25,10,Medium,WH-A/R37
+PN-10289,Alloy steel bar EN24 - A929,Raw Steel,kg,59.88,S024,4000,25,10,High,WH-A/R11
+PN-10290,CRCA steel coil - D382,Raw Steel,KG,₹82.61,S024,2750,25,10,Medium,WH-B/R22
+PN-10291,Alloy steel bar EN24 - C274,Raw Steel,KG,₹70.52,S024,3010,25,10,Low,WH-B/R25
+PN-10292,CRCA steel coil - Z880,Raw Steel,KG,₹99.31,S024,3630,25,10,Medium,WH-A/R15
+PN-10293,Case hardening steel bar - H369,Raw Steel,KG,131.77,S024,7190,25,10,High,WH-B/R36
+PN-10294,CRCA steel coil - M206,Raw Steel,KG,Rs. 95.66,S025,7390,25,11,High,WH-C/R10
+PN-10295,Alloy steel bar EN24 - Z885,Raw Steel,KG,123.14,S025,2060,25,11,Medium,WH-B/R03
+PN-10296,CRCA steel coil - H562,Raw Steel,KG,₹97.53,S024,7580,25,10,High,WH-C/R22
+PN-10297,Alloy steel bar EN24 - G921,Raw Steel,KG,Rs. 126.16,S025,2690,25,11,High,WH-A/R39
+PN-10298,Alloy steel bar EN24 - F212,Raw Steel,KG,Rs. 70.56,S025,5350,25,11,Low,WH-A/R38
+PN-10299,CRCA steel coil - D815,Raw Steel,KG,₹125.43,S024,9310,25,10,Medium,WH-C/R07
+PN-10300,Alloy steel bar EN24 - T919,Raw Steel,KG,Rs. 58.61,S024,9760,25,10,Medium,WH-A/R11

@@ -1,0 +1,18 @@
+AMENDMENT NO. 1 - OMKAR POLYMERS AUTO PRODUCTS
+Amendment reference AMD-S011-01 to CON-S011
+============================================================
+
+Amendment No. 1
+This Amendment No. 1 to the Supply Agreement CON-S011 between Sahyadri Auto Components Pvt Ltd and Omkar Polymers Auto Products is effective from 2026-04-25. Where it conflicts with the Agreement, this Amendment prevails.
+
+Clause 4 (Lead Time) replaced
+The Supplier shall deliver within 12 calendar days from the date of the PO.
+
+Clause 6 (Payment Terms) replaced
+Payment is due 90 days from the date of receipt of a correct invoice and acceptance of the goods.
+
+Clause 8 (Delay Penalty) replaced
+For each full week of delay beyond the delivery date, the Supplier shall pay a penalty of 1.0 percent of the value of the delayed goods, capped at 10.0 percent of the PO value.
+
+All other clauses
+All other clauses of the Agreement remain unchanged.

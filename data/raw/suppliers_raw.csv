@@ -1,0 +1,29 @@
+﻿supplier_id,supplier_name,category,city,gstin,contact_person,contact_email,phone,payment_terms,lead_time,incoterm
+S001,Pavna Castings Precision Pvt Ltd,Castings,Talawade,27NZTTS7860N1Z1,Amit Kulkarni,,+91 9855773405,45 days,19,EXW supplier works
+S002,Vighnaharta Castings Industries,Castings,Nashik,27BZLXR7783T1Z1,Kavita Jadhav,kavita.jadhav@vighnahartacasting.example.com,+91 9427515427,30,21,DAP Chakan plant
+S003,Indrayani Castings Components Pvt Ltd,Castings,Talawade,27ORYLE8326Q1Z7,Prakash Deshmukh,prakash.deshmukh@indrayanicastingsc.example.com,+91 9187503970,60 days,17,EXW supplier works
+S004,Omkar Forgings Industries,Forgings,Satara,27OLNOA1397G1Z1,Prakash Kale,prakash.kale@omkarforgingsindus.example.com,+91 9495652216,Net 45,25 days,DAP Chakan plant
+S005,Rajgad Forgings Industries,Forgings,Moshi,27AGVBW2813X1Z2,Meera Bhosale,meera.bhosale@rajgadforgingsindu.example.com,+91 9490885124,45 days,21 days,EXW supplier works
+S006,Pavna Fasteners Industries,Fasteners,Chhatrapati Sambhajinagar,27YDMSM4461E1Z3,Deepak Pawar,deepak.pawar@pavnafastenersindu.example.com,+91 9314889638,45,12 days,DAP Chakan plant
+S007,Deccan Fasteners Enterprises,Fasteners,Chennai,27THCCL9026D1Z4,Manoj More,manoj.more@deccanfastenersent.example.com,+91 9733628853,Net 45,18 days,DAP Chakan plant
+S008,Moshi Fasteners Auto Products,Fasteners,Chakan,27UBEME3298R1Z1,Manoj Jadhav,manoj.jadhav@moshifastenersauto.example.com,+91 9709932646,Net 45,9,DAP Chakan plant
+S009,Sahyadri Polymers Udyog,Rubber & Plastics,Talawade,27RMLYE5717O1Z4,Prakash More,prakash.more@sahyadripolymersud.example.com,+91 9340278096,Net 45,14,DAP Chakan plant
+S010,Bhima Polymers Engineering Works,Rubber & Plastics,Chakan,27SYTIC6146X1Z9,Sandeep Gaikwad,sandeep.gaikwad@bhimapolymersengin.example.com,+91 9307192591,30,12 days,DAP Chakan plant
+S011,Omkar Polymers Auto Products,Rubber & Plastics,Ranjangaon,27BHLZZ1515X1Z0,Sunita Pawar,sunita.pawar@omkarpolymersautop.example.com,+91 9773747216,Net 60,2 weeks,EXW supplier works
+S012,Moshi Cables Precision Pvt Ltd,Wiring Harness,Nigdi,27DBVXD7467E1Z3,Amit Patil,amit.patil@moshicablesprecisi.example.com,+91 9639444511,Net 60,14 days,DAP Chakan plant
+S013,Gajanan Cables Enterprises,Wiring Harness,Bhosari,27NYSTP4170F1Z8,Sunita Joshi,sunita.joshi@gajanancablesenter.example.com,+91 9823712072,Net 60,14,EXW supplier works
+S014,Sahyadri Bearings Components Pvt Ltd,Bearings,Gurugram,27APODQ8407C1Z7,Meera More,meera.more@sahyadribearingsco.example.com,+91 9773943641,90 days,29,DAP Chakan plant
+S015,Sinhagad Bearings Industries,Bearings,Nashik,27TPYWT6031H1Z4,Neha Pawar,neha.pawar@sinhagadbearingsin.example.com,+91 9207004858,45,25 days,DAP Chakan plant
+S016,Samarth Pressings Precision Pvt Ltd,Stampings,Moshi,27EVIIY1438X1Z9,Neha Kulkarni,neha.kulkarni@samarthpressingspr.example.com,+91 9638703676,Net 45,9,DAP Chakan plant
+S017,Ranjan Pressings Auto Products,Stampings,Akurdi,27TWUWN0434M1Z1,Meera Pawar,meera.pawar@ranjanpressingsaut.example.com,+91 9900204924,Net 30,10,DAP Chakan plant
+S018,Pavna Pressings Precision Pvt Ltd,Stampings,Talawade,27UXGZI8020P1Z7,Deepak Bhosale,deepak.bhosale@pavnapressingsprec.example.com,+91 9665037477,60,11 days,DAP Chakan plant
+S019,Purandar Packaging Auto Products,Packaging,Chakan,27PGIJN3663T1Z3,Sunita More,sunita.more@purandarpackaginga.example.com,+91 9490507080,60,4 days,DAP Chakan plant
+S020,Godavari Packaging Precision Pvt Ltd,Packaging,Bhosari,27BHETA2024P1Z6,Manoj Shinde,manoj.shinde@godavaripackagingp.example.com,+91 9552974408,30,6 days,DAP Chakan plant
+S021,Kaveri Lubricants Udyog,Lubricants,Nashik,27YYCGS5900B1Z0,Meera Kale,meera.kale@kaverilubricantsud.example.com,+91 9654549129,30 days,9,DAP Chakan plant
+S022,Deccan Lubricants Enterprises,Lubricants,Gurugram,27CMRSK9216U1Z2,Sunita Gaikwad,sunita.gaikwad@deccanlubricantsen.example.com,+91 9704108271,45,15 days,EXW supplier works
+S023,Talawade Electronics Industries,Sensors & Electronics,Bengaluru,27OYYJU6126M1Z1,Kavita Deshmukh,kavita.deshmukh@talawadeelectronic.example.com,+91 9438723525,90,39 days,EXW supplier works
+S024,Pavna Steel Industries,Raw Steel,Nigdi,27HZLIL0120H1Z5,Manoj More,manoj.more@pavnasteelindustri.example.com,+91 9926597704,60 days,10 days,DAP Chakan plant
+S025,Samarth Steel Industries,Raw Steel,Nigdi,27AGGLD8543U1Z8,Deepak Bhosale,deepak.bhosale@samarthsteelindust.example.com,+91 9113115326,60 days,11 days,DAP Chakan plant
+S006,PAVNA FASTENERS INDUSTRIES,Fasteners,Chhatrapati Sambhajinagar,27YDMSM4461E1Z3,Deepak Pawar,,+91 9314889638,45,12 days,DAP Chakan plant
+S005,RAJGAD FORGINGS INDUSTRIES,Forgings,Moshi,27AGVBW2813X1Z2,Meera Bhosale,,+91 9490885124,45 days,21 days,EXW supplier works
+S012,MOSHI CABLES PRECISION PVT LTD,Wiring Harness,Nigdi,27DBVXD7467E1Z3,Amit Patil,,+91 9639444511,Net 60,14 days,DAP Chakan plant

@@ -1,0 +1,14 @@
+From: quality@sahyadri-auto.example.com
+To: prakash.deshmukh@indrayanicastingsc.example.com
+Date: Tue, 13 Oct 2026 10:36
+Subject: Rejection notice - PO/26-27/06683 - PN-10018
+Message-ID: <EML-0029@sahyadri-auto.example.com>
+
+Dear Prakash,
+
+Incoming inspection of the lot received on 12-Oct-2026 against PO/26-27/06683 line 1, item PN-10018 (SG iron brake drum - K917), found 6 pieces rejected out of 3000 received. Defect observed: surface porosity.
+Please submit an 8D report within 5 working days and replace the rejected quantity within 7 days as per the quality clause. Rejected material is tagged and held for your disposition.
+
+Regards,
+Quality Assurance
+Sahyadri Auto Components Pvt Ltd

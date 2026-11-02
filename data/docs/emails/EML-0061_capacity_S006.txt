@@ -1,0 +1,13 @@
+From: deepak.pawar@pavnafastenersindu.example.com
+To: priya.nene@sahyadri-auto.example.com
+Date: Wed, 19 Aug 2026 10:13
+Subject: Capacity constraint for PN-10086
+Message-ID: <EML-0061@sahyadri-auto.example.com>
+
+Dear Priya,
+
+We can support your current schedule for item PN-10086 (Hex bolt - E100), but cannot commit to more than 10 percent above the current monthly volume for the next two months because of limited machine capacity. Please plan accordingly.
+
+Regards,
+Deepak Pawar
+Pavna Fasteners Industries

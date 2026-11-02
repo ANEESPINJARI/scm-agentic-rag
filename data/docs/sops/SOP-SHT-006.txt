@@ -1,0 +1,12 @@
+SOP: FESTIVAL AND PLANT SHUTDOWN PLANNING
+Document SOP-SHT-006 | Sahyadri Auto Components Pvt Ltd
+============================================================
+
+Notice
+Supplier shutdown calendars are collected and the plant shutdown calendar is shared with suppliers at least 30 days before Diwali, Ganesh festival and year-end.
+
+Pre-build
+For A items, build safety stock of at least 14 days of demand before a shutdown or festival week, subject to Purchase Manager approval of the extra inventory.
+
+Deliveries
+No deliveries are scheduled during a plant shutdown. POs due in a shutdown window are rescheduled to the first working day afterwards.

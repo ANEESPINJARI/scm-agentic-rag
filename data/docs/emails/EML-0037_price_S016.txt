@@ -1,0 +1,13 @@
+From: neha.kulkarni@samarthpressingspr.example.com
+To: priya.nene@sahyadri-auto.example.com
+Date: Sat, 01 Feb 2025 10:48
+Subject: Request for price revision - PN-10220
+Message-ID: <EML-0037@sahyadri-auto.example.com>
+
+Dear Priya,
+
+Due to a rise in raw material prices over the last quarter, we request a price increase of 4 percent on item PN-10220 (Clutch cover pressing - Z755), effective 03-Mar-2025. Supporting index data is attached. Please let us know your acceptance.
+
+Regards,
+Neha Kulkarni
+Samarth Pressings Precision Pvt Ltd

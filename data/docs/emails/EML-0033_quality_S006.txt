@@ -1,0 +1,14 @@
+From: quality@sahyadri-auto.example.com
+To: deepak.pawar@pavnafastenersindu.example.com
+Date: Tue, 24 Mar 2026 10:34
+Subject: Rejection notice - PO/25-26/04634 - PN-10084
+Message-ID: <EML-0033@sahyadri-auto.example.com>
+
+Dear Deepak,
+
+Incoming inspection of the lot received on 23-Mar-2026 against PO/25-26/04634 line 1, item PN-10084 (Flange nut - T417), found 95 pieces rejected out of 29800 received. Defect observed: surface porosity.
+Please submit an 8D report within 5 working days and replace the rejected quantity within 7 days as per the quality clause. Rejected material is tagged and held for your disposition.
+
+Regards,
+Quality Assurance
+Sahyadri Auto Components Pvt Ltd

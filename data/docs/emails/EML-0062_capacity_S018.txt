@@ -1,0 +1,13 @@
+From: deepak.bhosale@pavnapressingsprec.example.com
+To: rohan.gokhale@sahyadri-auto.example.com
+Date: Tue, 09 Sep 2025 10:19
+Subject: Capacity constraint for PN-10221
+Message-ID: <EML-0062@sahyadri-auto.example.com>
+
+Dear Rohan,
+
+We can support your current schedule for item PN-10221 (Heat shield - L363), but cannot commit to more than 10 percent above the current monthly volume for the next two months because of limited machine capacity. Please plan accordingly.
+
+Regards,
+Deepak Bhosale
+Pavna Pressings Precision Pvt Ltd

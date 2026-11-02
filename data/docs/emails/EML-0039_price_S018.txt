@@ -1,0 +1,13 @@
+From: deepak.bhosale@pavnapressingsprec.example.com
+To: priya.nene@sahyadri-auto.example.com
+Date: Sat, 23 May 2026 10:26
+Subject: Request for price revision - PN-10233
+Message-ID: <EML-0039@sahyadri-auto.example.com>
+
+Dear Priya,
+
+Due to a rise in raw material prices over the last quarter, we request a price increase of 7 percent on item PN-10233 (Mudguard panel - G584), effective 22-Jun-2026. Supporting index data is attached. Please let us know your acceptance.
+
+Regards,
+Deepak Bhosale
+Pavna Pressings Precision Pvt Ltd

@@ -1,0 +1,13 @@
+From: meera.bhosale@rajgadforgingsindu.example.com
+To: priya.nene@sahyadri-auto.example.com
+Date: Mon, 21 Sep 2026 10:34
+Subject: Capacity constraint for PN-10053
+Message-ID: <EML-0059@sahyadri-auto.example.com>
+
+Dear Priya,
+
+We can support your current schedule for item PN-10053 (Connecting rod forging - W663), but cannot commit to more than 10 percent above the current monthly volume for the next two months because of limited machine capacity. Please plan accordingly.
+
+Regards,
+Meera Bhosale
+Rajgad Forgings Industries

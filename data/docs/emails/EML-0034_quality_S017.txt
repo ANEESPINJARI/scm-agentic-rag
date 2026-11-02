@@ -1,0 +1,14 @@
+From: quality@sahyadri-auto.example.com
+To: meera.pawar@ranjanpressingsaut.example.com
+Date: Tue, 23 Jun 2026 10:44
+Subject: Rejection notice - PO/26-27/05605 - PN-10234
+Message-ID: <EML-0034@sahyadri-auto.example.com>
+
+Dear Meera,
+
+Incoming inspection of the lot received on 22-Jun-2026 against PO/26-27/05605 line 2, item PN-10234 (Clutch cover pressing - C160), found 3 pieces rejected out of 1900 received. Defect observed: wrong marking on parts.
+Please submit an 8D report within 5 working days and replace the rejected quantity within 7 days as per the quality clause. Rejected material is tagged and held for your disposition.
+
+Regards,
+Quality Assurance
+Sahyadri Auto Components Pvt Ltd

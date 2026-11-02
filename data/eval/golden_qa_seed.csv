@@ -1,0 +1,107 @@
+question,expected_answer,supplier_id,doc_id,fact_type
+What is the contractual lead time for Pavna Castings Precision Pvt Ltd?,19 calendar days,S001,CON-S001,lead_time
+What are the payment terms for Pavna Castings Precision Pvt Ltd?,45 days from receipt of a correct invoice and acceptance of goods,S001,CON-S001,payment_terms
+What delay penalty applies to Pavna Castings Precision Pvt Ltd?,"0.5 percent of delayed goods value per full week, capped at 10.0 percent of PO value",S001,CON-S001,delay_penalty
+What is the PPM limit in the contract with Pavna Castings Precision Pvt Ltd?,1000 PPM,S001,CON-S001,ppm_limit
+What is the contractual lead time for Vighnaharta Castings Industries?,24 calendar days,S002,AMD-S002-01,lead_time
+What are the payment terms for Vighnaharta Castings Industries?,90 days from receipt of a correct invoice and acceptance of goods,S002,AMD-S002-01,payment_terms
+What delay penalty applies to Vighnaharta Castings Industries?,"1.0 percent of delayed goods value per full week, capped at 10.0 percent of PO value",S002,AMD-S002-01,delay_penalty
+What is the PPM limit in the contract with Vighnaharta Castings Industries?,1000 PPM,S002,AMD-S002-01,ppm_limit
+What is the contractual lead time for Indrayani Castings Components Pvt Ltd?,17 calendar days,S003,CON-S003,lead_time
+What are the payment terms for Indrayani Castings Components Pvt Ltd?,60 days from receipt of a correct invoice and acceptance of goods,S003,CON-S003,payment_terms
+What delay penalty applies to Indrayani Castings Components Pvt Ltd?,"0.5 percent of delayed goods value per full week, capped at 10.0 percent of PO value",S003,CON-S003,delay_penalty
+What is the PPM limit in the contract with Indrayani Castings Components Pvt Ltd?,3000 PPM,S003,CON-S003,ppm_limit
+What is the contractual lead time for Omkar Forgings Industries?,23 calendar days,S004,AMD-S004-01,lead_time
+What are the payment terms for Omkar Forgings Industries?,30 days from receipt of a correct invoice and acceptance of goods,S004,AMD-S004-01,payment_terms
+What delay penalty applies to Omkar Forgings Industries?,"0.5 percent of delayed goods value per full week, capped at 5.0 percent of PO value",S004,AMD-S004-01,delay_penalty
+What is the PPM limit in the contract with Omkar Forgings Industries?,2000 PPM,S004,AMD-S004-01,ppm_limit
+What is the contractual lead time for Rajgad Forgings Industries?,23 calendar days,S005,AMD-S005-01,lead_time
+What are the payment terms for Rajgad Forgings Industries?,30 days from receipt of a correct invoice and acceptance of goods,S005,AMD-S005-01,payment_terms
+What delay penalty applies to Rajgad Forgings Industries?,"0.5 percent of delayed goods value per full week, capped at 10.0 percent of PO value",S005,AMD-S005-01,delay_penalty
+What is the PPM limit in the contract with Rajgad Forgings Industries?,1500 PPM,S005,AMD-S005-01,ppm_limit
+What is the contractual lead time for Pavna Fasteners Industries?,12 calendar days,S006,CON-S006,lead_time
+What are the payment terms for Pavna Fasteners Industries?,45 days from receipt of a correct invoice and acceptance of goods,S006,CON-S006,payment_terms
+What delay penalty applies to Pavna Fasteners Industries?,"0.5 percent of delayed goods value per full week, capped at 10.0 percent of PO value",S006,CON-S006,delay_penalty
+What is the PPM limit in the contract with Pavna Fasteners Industries?,3000 PPM,S006,CON-S006,ppm_limit
+What is the contractual lead time for Deccan Fasteners Enterprises?,18 calendar days,S007,CON-S007,lead_time
+What are the payment terms for Deccan Fasteners Enterprises?,45 days from receipt of a correct invoice and acceptance of goods,S007,CON-S007,payment_terms
+What delay penalty applies to Deccan Fasteners Enterprises?,"0.5 percent of delayed goods value per full week, capped at 10.0 percent of PO value",S007,CON-S007,delay_penalty
+What is the PPM limit in the contract with Deccan Fasteners Enterprises?,1500 PPM,S007,CON-S007,ppm_limit
+What is the contractual lead time for Moshi Fasteners Auto Products?,9 calendar days,S008,CON-S008,lead_time
+What are the payment terms for Moshi Fasteners Auto Products?,45 days from receipt of a correct invoice and acceptance of goods,S008,CON-S008,payment_terms
+What delay penalty applies to Moshi Fasteners Auto Products?,"0.5 percent of delayed goods value per full week, capped at 5.0 percent of PO value",S008,CON-S008,delay_penalty
+What is the PPM limit in the contract with Moshi Fasteners Auto Products?,3000 PPM,S008,CON-S008,ppm_limit
+What is the contractual lead time for Sahyadri Polymers Udyog?,14 calendar days,S009,CON-S009,lead_time
+What are the payment terms for Sahyadri Polymers Udyog?,45 days from receipt of a correct invoice and acceptance of goods,S009,CON-S009,payment_terms
+What delay penalty applies to Sahyadri Polymers Udyog?,"1.0 percent of delayed goods value per full week, capped at 5.0 percent of PO value",S009,CON-S009,delay_penalty
+What is the PPM limit in the contract with Sahyadri Polymers Udyog?,1000 PPM,S009,CON-S009,ppm_limit
+What is the contractual lead time for Bhima Polymers Engineering Works?,12 calendar days,S010,CON-S010,lead_time
+What are the payment terms for Bhima Polymers Engineering Works?,30 days from receipt of a correct invoice and acceptance of goods,S010,CON-S010,payment_terms
+What delay penalty applies to Bhima Polymers Engineering Works?,"1.0 percent of delayed goods value per full week, capped at 5.0 percent of PO value",S010,CON-S010,delay_penalty
+What is the PPM limit in the contract with Bhima Polymers Engineering Works?,1500 PPM,S010,CON-S010,ppm_limit
+What is the contractual lead time for Omkar Polymers Auto Products?,12 calendar days,S011,AMD-S011-01,lead_time
+What are the payment terms for Omkar Polymers Auto Products?,90 days from receipt of a correct invoice and acceptance of goods,S011,AMD-S011-01,payment_terms
+What delay penalty applies to Omkar Polymers Auto Products?,"1.0 percent of delayed goods value per full week, capped at 10.0 percent of PO value",S011,AMD-S011-01,delay_penalty
+What is the PPM limit in the contract with Omkar Polymers Auto Products?,5000 PPM,S011,AMD-S011-01,ppm_limit
+What is the contractual lead time for Moshi Cables Precision Pvt Ltd?,14 calendar days,S012,CON-S012,lead_time
+What are the payment terms for Moshi Cables Precision Pvt Ltd?,60 days from receipt of a correct invoice and acceptance of goods,S012,CON-S012,payment_terms
+What delay penalty applies to Moshi Cables Precision Pvt Ltd?,"0.5 percent of delayed goods value per full week, capped at 5.0 percent of PO value",S012,CON-S012,delay_penalty
+What is the PPM limit in the contract with Moshi Cables Precision Pvt Ltd?,5000 PPM,S012,CON-S012,ppm_limit
+What is the contractual lead time for Gajanan Cables Enterprises?,16 calendar days,S013,AMD-S013-01,lead_time
+What are the payment terms for Gajanan Cables Enterprises?,30 days from receipt of a correct invoice and acceptance of goods,S013,AMD-S013-01,payment_terms
+What delay penalty applies to Gajanan Cables Enterprises?,"0.5 percent of delayed goods value per full week, capped at 5.0 percent of PO value",S013,AMD-S013-01,delay_penalty
+What is the PPM limit in the contract with Gajanan Cables Enterprises?,3000 PPM,S013,AMD-S013-01,ppm_limit
+What is the contractual lead time for Sahyadri Bearings Components Pvt Ltd?,29 calendar days,S014,CON-S014,lead_time
+What are the payment terms for Sahyadri Bearings Components Pvt Ltd?,90 days from receipt of a correct invoice and acceptance of goods,S014,CON-S014,payment_terms
+What delay penalty applies to Sahyadri Bearings Components Pvt Ltd?,"0.5 percent of delayed goods value per full week, capped at 5.0 percent of PO value",S014,CON-S014,delay_penalty
+What is the PPM limit in the contract with Sahyadri Bearings Components Pvt Ltd?,1500 PPM,S014,CON-S014,ppm_limit
+What is the contractual lead time for Sinhagad Bearings Industries?,25 calendar days,S015,CON-S015,lead_time
+What are the payment terms for Sinhagad Bearings Industries?,45 days from receipt of a correct invoice and acceptance of goods,S015,CON-S015,payment_terms
+What delay penalty applies to Sinhagad Bearings Industries?,"0.5 percent of delayed goods value per full week, capped at 10.0 percent of PO value",S015,CON-S015,delay_penalty
+What is the PPM limit in the contract with Sinhagad Bearings Industries?,2000 PPM,S015,CON-S015,ppm_limit
+What is the contractual lead time for Samarth Pressings Precision Pvt Ltd?,9 calendar days,S016,CON-S016,lead_time
+What are the payment terms for Samarth Pressings Precision Pvt Ltd?,45 days from receipt of a correct invoice and acceptance of goods,S016,CON-S016,payment_terms
+What delay penalty applies to Samarth Pressings Precision Pvt Ltd?,"0.5 percent of delayed goods value per full week, capped at 5.0 percent of PO value",S016,CON-S016,delay_penalty
+What is the PPM limit in the contract with Samarth Pressings Precision Pvt Ltd?,2000 PPM,S016,CON-S016,ppm_limit
+What is the contractual lead time for Ranjan Pressings Auto Products?,10 calendar days,S017,CON-S017,lead_time
+What are the payment terms for Ranjan Pressings Auto Products?,30 days from receipt of a correct invoice and acceptance of goods,S017,CON-S017,payment_terms
+What delay penalty applies to Ranjan Pressings Auto Products?,"0.5 percent of delayed goods value per full week, capped at 10.0 percent of PO value",S017,CON-S017,delay_penalty
+What is the PPM limit in the contract with Ranjan Pressings Auto Products?,5000 PPM,S017,CON-S017,ppm_limit
+What is the contractual lead time for Pavna Pressings Precision Pvt Ltd?,11 calendar days,S018,CON-S018,lead_time
+What are the payment terms for Pavna Pressings Precision Pvt Ltd?,60 days from receipt of a correct invoice and acceptance of goods,S018,CON-S018,payment_terms
+What delay penalty applies to Pavna Pressings Precision Pvt Ltd?,"1.0 percent of delayed goods value per full week, capped at 10.0 percent of PO value",S018,CON-S018,delay_penalty
+What is the PPM limit in the contract with Pavna Pressings Precision Pvt Ltd?,3000 PPM,S018,CON-S018,ppm_limit
+What is the contractual lead time for Purandar Packaging Auto Products?,4 calendar days,S019,CON-S019,lead_time
+What are the payment terms for Purandar Packaging Auto Products?,60 days from receipt of a correct invoice and acceptance of goods,S019,CON-S019,payment_terms
+What delay penalty applies to Purandar Packaging Auto Products?,"0.5 percent of delayed goods value per full week, capped at 10.0 percent of PO value",S019,CON-S019,delay_penalty
+What is the PPM limit in the contract with Purandar Packaging Auto Products?,2000 PPM,S019,CON-S019,ppm_limit
+What is the contractual lead time for Godavari Packaging Precision Pvt Ltd?,6 calendar days,S020,CON-S020,lead_time
+What are the payment terms for Godavari Packaging Precision Pvt Ltd?,30 days from receipt of a correct invoice and acceptance of goods,S020,CON-S020,payment_terms
+What delay penalty applies to Godavari Packaging Precision Pvt Ltd?,"1.0 percent of delayed goods value per full week, capped at 10.0 percent of PO value",S020,CON-S020,delay_penalty
+What is the PPM limit in the contract with Godavari Packaging Precision Pvt Ltd?,2000 PPM,S020,CON-S020,ppm_limit
+What is the contractual lead time for Kaveri Lubricants Udyog?,9 calendar days,S021,CON-S021,lead_time
+What are the payment terms for Kaveri Lubricants Udyog?,30 days from receipt of a correct invoice and acceptance of goods,S021,CON-S021,payment_terms
+What delay penalty applies to Kaveri Lubricants Udyog?,"0.5 percent of delayed goods value per full week, capped at 10.0 percent of PO value",S021,CON-S021,delay_penalty
+What is the PPM limit in the contract with Kaveri Lubricants Udyog?,2000 PPM,S021,CON-S021,ppm_limit
+What is the contractual lead time for Deccan Lubricants Enterprises?,15 calendar days,S022,CON-S022,lead_time
+What are the payment terms for Deccan Lubricants Enterprises?,45 days from receipt of a correct invoice and acceptance of goods,S022,CON-S022,payment_terms
+What delay penalty applies to Deccan Lubricants Enterprises?,"1.0 percent of delayed goods value per full week, capped at 10.0 percent of PO value",S022,CON-S022,delay_penalty
+What is the PPM limit in the contract with Deccan Lubricants Enterprises?,1000 PPM,S022,CON-S022,ppm_limit
+What is the contractual lead time for Talawade Electronics Industries?,39 calendar days,S023,CON-S023,lead_time
+What are the payment terms for Talawade Electronics Industries?,90 days from receipt of a correct invoice and acceptance of goods,S023,CON-S023,payment_terms
+What delay penalty applies to Talawade Electronics Industries?,"1.0 percent of delayed goods value per full week, capped at 10.0 percent of PO value",S023,CON-S023,delay_penalty
+What is the PPM limit in the contract with Talawade Electronics Industries?,1500 PPM,S023,CON-S023,ppm_limit
+What is the contractual lead time for Pavna Steel Industries?,10 calendar days,S024,CON-S024,lead_time
+What are the payment terms for Pavna Steel Industries?,60 days from receipt of a correct invoice and acceptance of goods,S024,CON-S024,payment_terms
+What delay penalty applies to Pavna Steel Industries?,"0.5 percent of delayed goods value per full week, capped at 10.0 percent of PO value",S024,CON-S024,delay_penalty
+What is the PPM limit in the contract with Pavna Steel Industries?,2000 PPM,S024,CON-S024,ppm_limit
+What is the contractual lead time for Samarth Steel Industries?,9 calendar days,S025,AMD-S025-01,lead_time
+What are the payment terms for Samarth Steel Industries?,45 days from receipt of a correct invoice and acceptance of goods,S025,AMD-S025-01,payment_terms
+What delay penalty applies to Samarth Steel Industries?,"0.5 percent of delayed goods value per full week, capped at 5.0 percent of PO value",S025,AMD-S025-01,delay_penalty
+What is the PPM limit in the contract with Samarth Steel Industries?,1000 PPM,S025,AMD-S025-01,ppm_limit
+"Who must approve a purchase order of INR 3,50,000?",Purchase Manager,,SOP-PO-002,sop
+"Who must approve a purchase order of INR 8,00,000?",Plant Head,,SOP-PO-002,sop
+Who approves a reorder point change for an A-class item?,Purchase Manager,,SOP-INV-001,sop
+What service level is targeted for A-class items?,98 percent,,SOP-INV-001,sop
+How many days of stock cover trigger a red alert for an A item?,Less than 2 days,,SOP-STK-005,sop
+Up to what amount can the Purchase Manager approve premium freight?,"INR 25,000",,SOP-EXP-003,sop

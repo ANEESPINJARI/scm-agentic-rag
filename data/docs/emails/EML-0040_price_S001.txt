@@ -1,0 +1,13 @@
+From: amit.kulkarni@pavnacastingspreci.example.com
+To: rohan.gokhale@sahyadri-auto.example.com
+Date: Fri, 10 Jan 2025 10:33
+Subject: Request for price revision - PN-10002
+Message-ID: <EML-0040@sahyadri-auto.example.com>
+
+Dear Rohan,
+
+Due to a rise in raw material prices over the last quarter, we request a price increase of 6 percent on item PN-10002 (Gearbox casing - B865), effective 09-Feb-2025. Supporting index data is attached. Please let us know your acceptance.
+
+Regards,
+Amit Kulkarni
+Pavna Castings Precision Pvt Ltd

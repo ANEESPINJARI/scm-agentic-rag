@@ -1,0 +1,14 @@
+From: quality@sahyadri-auto.example.com
+To: sunita.gaikwad@deccanlubricantsen.example.com
+Date: Tue, 03 Dec 2024 10:14
+Subject: Rejection notice - PO/24-25/00057 - PN-10267
+Message-ID: <EML-0027@sahyadri-auto.example.com>
+
+Dear Sunita,
+
+Incoming inspection of the lot received on 02-Dec-2024 against PO/24-25/00057 line 2, item PN-10267 (Coolant concentrate - V948), found 3 pieces rejected out of 6525 received. Defect observed: surface porosity.
+Please submit an 8D report within 5 working days and replace the rejected quantity within 7 days as per the quality clause. Rejected material is tagged and held for your disposition.
+
+Regards,
+Quality Assurance
+Sahyadri Auto Components Pvt Ltd

@@ -1,0 +1,14 @@
+From: sunita.more@purandarpackaginga.example.com
+To: priya.nene@sahyadri-auto.example.com
+Date: Wed, 10 Jun 2026 10:35
+Subject: Delay in dispatch - PO/26-27/05579
+Message-ID: <EML-0013@sahyadri-auto.example.com>
+
+Dear Priya,
+
+We regret to inform you that dispatch against PO/26-27/05579 line 1, item PN-10247 (VCI bag - W329), quantity 2700 NOS, promised for 13-Jun-2026, will be delayed. Reason: a tooling repair taking longer than planned. We now expect to dispatch by 20-Jun-2026.
+We apologise for the inconvenience and will share the e-way bill once the vehicle is loaded.
+
+Regards,
+Sunita More
+Purandar Packaging Auto Products

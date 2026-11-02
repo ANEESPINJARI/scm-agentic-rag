@@ -1,0 +1,13 @@
+From: deepak.bhosale@pavnapressingsprec.example.com
+To: accounts@sahyadri-auto.example.com
+Date: Tue, 18 Mar 2025 10:54
+Subject: Payment reminder - invoice for PO/24-25/00272
+Message-ID: <EML-0055@sahyadri-auto.example.com>
+
+Dear Accounts Team,
+
+This is a reminder that payment of about INR 10,25,383 against PO/24-25/00272 line 4 (goods received 01-Jan-2025) is overdue as per the agreed 60 day payment terms. Please release payment or share the reason for hold.
+
+Regards,
+Deepak Bhosale
+Pavna Pressings Precision Pvt Ltd

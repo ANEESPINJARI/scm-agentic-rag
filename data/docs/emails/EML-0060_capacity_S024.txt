@@ -1,0 +1,13 @@
+From: manoj.more@pavnasteelindustri.example.com
+To: rohan.gokhale@sahyadri-auto.example.com
+Date: Wed, 17 Dec 2025 10:31
+Subject: Capacity constraint for PN-10291
+Message-ID: <EML-0060@sahyadri-auto.example.com>
+
+Dear Rohan,
+
+We can support your current schedule for item PN-10291 (Alloy steel bar EN24 - C274), but cannot commit to more than 10 percent above the current monthly volume for the next two months because of limited machine capacity. Please plan accordingly.
+
+Regards,
+Manoj More
+Pavna Steel Industries

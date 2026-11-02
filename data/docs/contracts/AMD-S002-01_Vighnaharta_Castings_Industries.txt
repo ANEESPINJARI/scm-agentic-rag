@@ -1,0 +1,18 @@
+AMENDMENT NO. 1 - VIGHNAHARTA CASTINGS INDUSTRIES
+Amendment reference AMD-S002-01 to CON-S002
+============================================================
+
+Amendment No. 1
+This Amendment No. 1 to the Supply Agreement CON-S002 between Sahyadri Auto Components Pvt Ltd and Vighnaharta Castings Industries is effective from 2026-03-28. Where it conflicts with the Agreement, this Amendment prevails.
+
+Clause 4 (Lead Time) replaced
+The Supplier shall deliver within 24 calendar days from the date of the PO.
+
+Clause 6 (Payment Terms) replaced
+Payment is due 90 days from the date of receipt of a correct invoice and acceptance of the goods.
+
+Clause 8 (Delay Penalty) replaced
+For each full week of delay beyond the delivery date, the Supplier shall pay a penalty of 1.0 percent of the value of the delayed goods, capped at 10.0 percent of the PO value.
+
+All other clauses
+All other clauses of the Agreement remain unchanged.

@@ -1,0 +1,14 @@
+From: manoj.more@pavnasteelindustri.example.com
+To: priya.nene@sahyadri-auto.example.com
+Date: Tue, 19 Nov 2024 10:15
+Subject: Delay in dispatch - PO/24-25/00059
+Message-ID: <EML-0007@sahyadri-auto.example.com>
+
+Dear Priya,
+
+We regret to inform you that dispatch against PO/24-25/00059 line 4, item PN-10299 (CRCA steel coil - D815), quantity 9425 KG, promised for 22-Nov-2024, will be delayed. Reason: shortage of raw material from our steel supplier. We now expect to dispatch by 29-Nov-2024.
+We apologise for the inconvenience and will share the e-way bill once the vehicle is loaded.
+
+Regards,
+Manoj More
+Pavna Steel Industries

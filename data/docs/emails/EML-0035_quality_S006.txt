@@ -1,0 +1,14 @@
+From: quality@sahyadri-auto.example.com
+To: deepak.pawar@pavnafastenersindu.example.com
+Date: Sat, 27 Jun 2026 10:24
+Subject: Rejection notice - PO/26-27/05621 - PN-10084
+Message-ID: <EML-0035@sahyadri-auto.example.com>
+
+Dear Deepak,
+
+Incoming inspection of the lot received on 25-Jun-2026 against PO/26-27/05621 line 1, item PN-10084 (Flange nut - T417), found 99 pieces rejected out of 26015 received. Defect observed: burrs on machined surface.
+Please submit an 8D report within 5 working days and replace the rejected quantity within 7 days as per the quality clause. Rejected material is tagged and held for your disposition.
+
+Regards,
+Quality Assurance
+Sahyadri Auto Components Pvt Ltd
